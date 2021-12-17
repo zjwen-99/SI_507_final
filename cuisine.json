@@ -1,0 +1,5235 @@
+{
+    "cuisine": {
+        "24 Hour Dining": {
+            "Arrogant Swine": {
+                "173 Morgan AveNY, 11237": {}
+            },
+            "L'Express": {
+                "249 Park AveNew York, NY, 10017+2510": {}
+            },
+            "7th Avenue Donuts Luncheonette": {
+                "324 7th AveBrooklyn, NY, 11215+4140": {}
+            },
+            "Bagels On The Square": {
+                "7 Carmine StNew York, NY, 10014+4441": {}
+            },
+            "Kang Suh": {
+                "1250 BroadwayNew York, NY, 10001+3716": {}
+            },
+            "Kunjip": {
+                "9 West 32nd StreetNew York, NY, 10001+3810": {}
+            },
+            "Veselka": {
+                "144 2nd AveNew York, NY, 10003+8305": {}
+            },
+            "Randolph Beer": {
+                "343 Broome StreetNew York, NY, 10013": {}
+            },
+            "Ray's Candy Store": {
+                "113 Avenue ANew York, NY, 10009": {}
+            },
+            "Empanada Mama": {
+                "763 9th AveNew York, NY, 10019+6313": {}
+            },
+            "Cafeteria": {
+                "119 7th AveNew York, NY, 10011+1802": {}
+            },
+            "Westway Diner": {
+                "614 9th AveNew York, NY, 10036+3731": {}
+            },
+            "Kum Gang San": {
+                "13828 Northern BlvdFlushing, NY, 11354+3406": {}
+            },
+            "Coppelia": {
+                "207 W 14th StNew York, NY, 10011+7143": {}
+            },
+            "Gregory's 26 Corner Taverna": {
+                "26-02 23rd AveNY, 11105": {}
+            },
+            "Brasserie Maison": {
+                "1700 BroadwayNew York, NY, 10019+5905": {}
+            },
+            "Gahm Mi Oak": {
+                "9 west 32nd StreetNew York, NY, 10001": {}
+            },
+            "Tom's Restaurant": {
+                "2880 BroadwayNew York, NY, 10025+7848": {}
+            },
+            "Hollywood Diner": {
+                "574 6th AveNew York, NY, 10011+2019": {}
+            },
+            "Daisey's Diner": {
+                "452 5th AveBrooklyn, NY, 11215+4083": {}
+            }
+        },
+        "Afghanistan": {
+            "Khyber Pass": {
+                "34 Saint Marks PlaceNew York, NY, 10003": {}
+            },
+            "Bahar": {
+                "984 Coney Island AveBrooklyn, NY, 11230+1312": {}
+            },
+            "Afghan Kebab House": {
+                "1345 2nd AveNew York, NY, 10021": {}
+            }
+        },
+        "African": {
+            "Safari": {
+                "219 West 116th StreetHarlem, NY, 10026": {}
+            },
+            "Braai": {
+                "329 W 51st StNew York, NY, 10018": {}
+            },
+            "La Nomad": {
+                "78 2nd AveNew York, NY, 10003+8644": {}
+            },
+            "Kaloum": {
+                "120 West 116th StreetNew York, NY, 10026+2545": {}
+            },
+            "Cafe Rue Dix": {
+                "1451 Bedford AveBrooklyn, NY, 11216": {}
+            },
+            "Massawa": {
+                "1239 Amsterdam AveNew York, NY, 10027+6603": {}
+            },
+            "Awash": {
+                "947 Amsterdam AveNew York, NY, 10025+8359": {}
+            },
+            "La Goulette": {
+                "159 Grand StreetBrooklyn, NY, 11213": {}
+            },
+            "Joloff": {
+                "1168 Bedford AveBrooklyn, NY, 11216": {}
+            },
+            "Aria Wine Bar \u2014 Hell's Kitchen": {
+                "369 W 51st StNew York, NY, 10019": {}
+            },
+            "Billie's Black": {
+                "271 West 119th StreetNew York, NY, 10026": {}
+            },
+            "Kaia Wine Bar": {
+                "1614 3rd AveNY, 10128": {}
+            },
+            "1200 Miles": {
+                "New York, NY, 1001031 West 21st Street": {}
+            }
+        },
+        "American (New)": {
+            "Cafe Luxembourg": {
+                "200 West 70th StreetNew York, NY, 10023+4323": {}
+            },
+            "Blue Ribbon Brasserie": {
+                "97 Sullivan StreetNew York, NY, 10012": {}
+            },
+            "The Smith \u2013 East Village": {
+                "55 3rd AvenueNew York, NY, 10003": {}
+            },
+            "Chalk Point Kitchen": {
+                "525 Broome StreetNew York, NY, 10013": {}
+            },
+            "Oro": {
+                "41-17 Crescent StreetNew York, NY, 11101": {}
+            },
+            "Cafeteria": {
+                "119 7th AveNew York, NY, 10011+1802": {}
+            },
+            "Brickyard Gastropub": {
+                "785 9th AveNew York, NY, 10019+5620": {}
+            },
+            "River Styx": {
+                "21 Greenpoint AveBrooklyn, NY, 11222": {}
+            },
+            "Vekslers": {
+                "521 Hicks StreetCobble Hill, Brooklyn, NY, 11231": {}
+            },
+            "The Smith \u2013 Nomad": {
+                "1150 BroadwayNY, 10001": {}
+            },
+            "BKW by Brooklyn Winery": {
+                "747 Franklin AveNY, 11238": {}
+            },
+            "Belle Reve": {
+                "305 Church StreetNY, 10013": {}
+            },
+            "Barlycorn NYC": {
+                "23 Park PlaceNY, 10007": {}
+            },
+            "Prawn Shop": {
+                "669 Union StreetPark Slope, Brooklyn, NY, 11215": {}
+            },
+            "Paramount Bar & Grill": {
+                "235 West 46th StreetNew York, NY, 10036+1409": {}
+            },
+            "The Smith \u2013 Midtown East": {
+                "956 2nd AveNew York, NY, 10022+7805": {}
+            },
+            "Cafe Colette": {
+                "79 Berry StWilliamsburg, Brooklyn, NY, 11211": {}
+            },
+            "The Smith \u2013 Upper West Side": {
+                "1900 BroadwayNew York, NY, 10023": {}
+            },
+            "121 Fulton Street": {
+                "121 Fulton StreetNY, 10038": {}
+            },
+            "Annabel": {
+                "809 Ninth AveNY, 10019": {}
+            }
+        },
+        "American (Regional)": {
+            "Smorgasburg Prospect Park": {
+                "NEW YORK, NY, 11225Well House Dr": {}
+            },
+            "Smorgasburg Williamsburg": {
+                "7 StBrooklyn, NY, 11249": {}
+            },
+            "Arrogant Swine": {
+                "173 Morgan AveNY, 11237": {}
+            },
+            "Bobwhite Counter": {
+                "94 Avenue CNew York, NY, 10009": {}
+            },
+            "Blue Ribbon Fried Chicken": {
+                "28 East 1st StreetNew York, NY, 10003": {}
+            },
+            "Pies 'n' Thighs": {
+                "166 S 4th StreetBrooklyn, NY, 11211": {}
+            },
+            "Sylvia's": {
+                "328 Malcolm X BlvdNew York, NY, 10027+3711": {}
+            },
+            "Water Street": {
+                "66 Water StreetBrooklyn, NY, 11201+1048": {}
+            },
+            "Home": {
+                "20 Cornelia StNew York, NY, 10014+5608": {}
+            },
+            "The Hideaway": {
+                "185 Duane StNew York, NY, 10013+3356": {}
+            },
+            "Virginia's": {
+                "647 East 11 StreetNY, 10009": {}
+            },
+            "Upland": {
+                "345 Park Avenue SouthNY, 10010": {}
+            },
+            "Minton's": {
+                "206 West 118th StreetNY, 10026": {}
+            },
+            "Catfish": {
+                "1433 Bedford AveBrooklyn, NY, 11216": {}
+            },
+            "Riverpark": {
+                "450 E 29th StNew York, NY, 10016": {}
+            },
+            "SoHo Park": {
+                "62 Prince StreetNew York, NY, 10012": {}
+            },
+            "Soule": {
+                "920 Fulton StBrooklyn, NY, 11238+2349": {}
+            },
+            "Cowgirl Hall Of Fame": {
+                "519 Hudson StreetNew York, NY, 10014": {}
+            },
+            "Agave": {
+                "140 7th Ave SouthNew York, NY, 10014": {}
+            },
+            "Blujeen": {
+                "2143 Frederick Douglas BlvdNY, 10026": {}
+            }
+        },
+        "American (Traditional)": {
+            "The Tavern by WS": {
+                "35 Hudson YardsNY, 10001": {}
+            },
+            "Eisenberg's Sandwich Shop": {
+                "174 5th AveNew York, NY, 10010+5913": {}
+            },
+            "Forgtmenot": {
+                "138 Division StreetNY, 10002": {}
+            },
+            "Jacob's Pickles": {
+                "509 Amsterdam AveNew York, NY, 10024+3941": {}
+            },
+            "Burger Joint at Le Parker Meridien": {
+                "118 W 57th StNew York, NY, 10019+3318": {}
+            },
+            "Benjamin Steakhouse": {
+                "52 East 41st StreetNew York, NY, 10017": {}
+            },
+            "Tom's": {
+                "782 Washington AveBrooklyn, NY, 11238+4506": {}
+            },
+            "Gallagher's Steak House": {
+                "228 West 52nd StreetNew York, NY, 10019+5804": {}
+            },
+            "Prune": {
+                "54 E 1st StNew York, NY, 10003+9313": {}
+            },
+            "Henry's End": {
+                "44 Henry StBrooklyn, NY, 11201+1385": {}
+            },
+            "The Finch": {
+                "212 Greene AvenueNY, 11238": {}
+            },
+            "Grindhaus": {
+                "275 Van Brunt StreetBrooklyn, NY, 11231": {}
+            },
+            "Marlow & Sons": {
+                "81 BroadwayBrooklyn, NY, 11211": {}
+            },
+            "P.J. Clarke's": {
+                "915 3rd AveNew York, NY, 10022+3767": {}
+            },
+            "Maison May": {
+                "246 Dekalb AveBrooklyn, NY, 11205+4116": {}
+            },
+            "Mudspot": {
+                "307 E 9th StNew York, NY, 10003+7731": {}
+            },
+            "DuMont Burger": {
+                "314 Bedford AvenueBrooklyn, NY, 11211": {}
+            },
+            "Serendipity 3": {
+                "225 East 60th StreetNew York, NY, 10022+1442": {}
+            },
+            "Junior's": {
+                "386 Flatbush Avenue ExtBrooklyn, NY, 11201+5331": {}
+            },
+            "Bruckner Bar & Grill": {
+                "2412 3rd AveBronx, NY, 10454+4401": {}
+            }
+        },
+        "Arabic": {
+            "Tsion Cafe": {
+                "763 StNicholas Ave": {}
+            }
+        },
+        "Argentinian": {
+            "El Almacen": {
+                "557 Driggs AveBrooklyn, NY, 11211": {}
+            },
+            "Balvanera": {
+                "152 Stanton StreetNY, 10002": {}
+            },
+            "Bogota Latin Bistro": {
+                "141 5th AveBrooklyn, NY, 11217+4420": {}
+            },
+            "Estancia 460": {
+                "460 Greenwich StNew York, NY, 10013-1760": {}
+            },
+            "Buenos Aires": {
+                "513 East 6th StreetNew York, NY, 10009": {}
+            },
+            "Libertador": {
+                "1725 2nd AveNew York, NY, 10128+3502": {}
+            },
+            "Chimichurri Grill": {
+                "606 9th AveNew York, NY, 10036+3739": {}
+            },
+            "La Cabana Argentina": {
+                "86-07 Northern BlvdJackson Heights, NY, 11372+1545": {}
+            },
+            "Cafe Argentino": {
+                "499 Grand StreetBrooklyn, NY, 11211+4705": {}
+            },
+            "El Gaucho Glatt Steakhouse": {
+                "4102 18th AveBrooklyn, NY, 11218+5710": {}
+            },
+            "Shelter": {
+                "80 N7th Street": {}
+            }
+        },
+        "Asian": {
+            "Satsko": {
+                "202 East 7th StreetNew York, NY, 10002": {}
+            },
+            "Momofuku Ssam Bar": {
+                "207 Second Ave": {}
+            },
+            "Cafe at RMA": {
+                "150 West 17th StreetNew York, NY, 10011": {}
+            },
+            "Mulan": {
+                "136-17 39th AveFlushing, NY, 11354": {}
+            },
+            "Chalk Point Kitchen": {
+                "525 Broome StreetNew York, NY, 10013": {}
+            },
+            "Dokebi": {
+                "199 Grand StBrooklyn, NY, 11211": {}
+            },
+            "Asia de Cuba": {
+                "415 Lafayette StreetNew York, NY, 10003": {}
+            },
+            "Cafe Kashkar": {
+                "1141 Brighton Beach AveBrooklyn, NY, 11235+5903": {}
+            },
+            "Linn": {
+                "29-13 BroadwayNew York, NY, 11106": {}
+            },
+            "Kuma Inn": {
+                "113 Ludlow St, 2nd FloorNew York, NY, 10002": {}
+            },
+            "Zen Palate \u2014 Theatre District": {
+                "663 9th AveNew York, NY, 10036+3606": {}
+            },
+            "Fatty Fish": {
+                "406 East 64th StreetNew York, NY, 10021+7847": {}
+            },
+            "Indian Taj \u2014 Greenwich Village": {
+                "181 Bleecker StNew York, NY, 10012+1406": {}
+            },
+            "Omen": {
+                "113 Thompson StNew York, NY, 10012+3714": {}
+            },
+            "Yaso Tangbao": {
+                "148 Lawrence StreetBrooklyn, NY, 11201": {}
+            },
+            "Tao \u2014\u00a0Downtown": {
+                "92 9th AveNY, 10011": {}
+            },
+            "Reserve Cut": {
+                "40 Broad StreetNew York, NY, 10004": {}
+            },
+            "Todd English Food Hall": {
+                "10 Central Park SouthNew York, NY, 10019": {}
+            },
+            "Qi Esarn Thai Kitchen": {
+                "31 West 14th StreetNew York, NY, 10011": {}
+            },
+            "Penthouse 808": {
+                "8-08 Queens Plaza SouthLong Island City, NY, 11101": {}
+            }
+        },
+        "Australian": {
+            "Burke & Wills": {
+                "229 West 79th StreetNew York, NY, 10024": {}
+            },
+            "Ruby's \u2014 SoHo": {
+                "219 Mulberry StreetNew York, NY, 10012+5735": {}
+            },
+            "Kiwiana": {
+                "847 Union StNew York, NY, 11215": {}
+            },
+            "Dudley's": {
+                "New York, NY, 1000285 Orchard St": {}
+            },
+            "Tuck Shop": {
+                "68 East First StreetNew York, NY, 10003": {}
+            },
+            "The Australian": {
+                "20 West 38th StreetNew York, NY, 10018+6228": {}
+            },
+            "Ruby's \u2014 Murray Hill": {
+                "442 3rd AvenueNY, 10016": {}
+            },
+            "Flinders Lane": {
+                "162 Avenue ANew York, NY, 10009": {}
+            },
+            "Thirsty Koala": {
+                "35-12 Ditmars BlvdAstoria, NY, 11105": {}
+            }
+        },
+        "Austrian": {
+            "Cafe Sabarsky": {
+                "1048 5th AveNew York, NY, 10028+0111": {}
+            },
+            "Hallo Berlin": {
+                "626 10th AveNew York, NY, 10036+3036": {}
+            },
+            "Wallse": {
+                "344 W 11th StNew York, NY, 10026+1003": {}
+            },
+            "Cafe Katja": {
+                "79 Orchard StNew York, NY, 10002": {}
+            },
+            "Cafe Steinhof": {
+                "422 7th AveBrooklyn, NY, 11215+5012": {}
+            },
+            "Buschenschank": {
+                "320 Court StBrooklyn, NY, 11231": {}
+            },
+            "The Standard Biergarten": {
+                "848 Washington StNew York, NY, 10014": {}
+            }
+        },
+        "Bakeries": {
+            "La Bergamote \u2014 Chelsea": {
+                "177 9th AveNew York, NY, 10011+4903": {}
+            },
+            "La Bergamote \u2014 Midtown": {
+                "515 West 52 StreetNew York, NY, 10019": {}
+            },
+            "Four & Twenty Blackbirds": {
+                "439 3rd AveGowanus, NY, 11215": {}
+            },
+            "Sullivan Street Bakery \u2014 Hell's Ktchen": {
+                "533 W 47th StNew York, NY, 10036+2219": {}
+            },
+            "Murray's Bagels - Greenwich Village": {
+                "500 6th AveNew York, NY, 10011+8403": {}
+            },
+            "Ladybird": {
+                "1112 8th AveBrooklyn, NY, 11215+4314": {}
+            },
+            "Balthazar": {
+                "80 Spring StNew York, NY, 10012+3907": {}
+            },
+            "\u00c9picerie Boulud": {
+                "1900 Broadway0, NY, 10023": {}
+            },
+            "7th Avenue Donuts Luncheonette": {
+                "324 7th AveBrooklyn, NY, 11215+4140": {}
+            },
+            "Bouchon Bakery - Time Warner Center": {
+                "10 Columbus Circle (third floor)New York, NY, 10019": {}
+            },
+            "Caputo Bakery": {
+                "329 Court StreetBROOKLYN, NY, 11231+4335": {}
+            },
+            "Ess-A-Bagel - Gramercy": {
+                "359 1st AveNew York, NY, 10003": {}
+            },
+            "Murray's Bagels - Chelsea": {
+                "242 8th AveNew York, NY, 10011+1622": {}
+            },
+            "William J. Greenberg Jr. Desserts": {
+                "2156 BroadwayNew York, NY, 10023": {}
+            },
+            "Kossar's Bialys": {
+                "367 Grand StNew York, NY, 10002+3951": {}
+            },
+            "Clinton St. Baking Company": {
+                "4 Clinton StNew York, NY, 10002+1703": {}
+            },
+            "Ess-A-Bagel - Midtown": {
+                "831 3rd AveNew York, NY, 10022+7500": {}
+            },
+            "Financier Patisserie \u2013 Midtown": {
+                "983 1st AveNew York, NY, 10022+5102": {}
+            },
+            "Terrace Bagels": {
+                "224 Prospect Park WBrooklyn, NY, 11215+5896": {}
+            },
+            "Bay Ridge Bakery": {
+                "7805 5th AveBay Ridge, NY, 11209+3703": {}
+            }
+        },
+        "Bar & Grill": {
+            "Ward 3": {
+                "111 Reade StNew York, NY, 10013": {}
+            },
+            "Dinosaur Bar-B-Que": {
+                "700 W 125th StNew York, NY, 10027": {}
+            },
+            "Cafe Loup": {
+                "105 W 13th StNew York, NY, 10011+7851": {}
+            },
+            "Bowery Bar & Grill (B Bar)": {
+                "40 E 4th St": {}
+            },
+            "Colonie": {
+                "127 Atlantic AveBrooklyn, NY, 11201+5546": {}
+            },
+            "Fletcher's Brooklyn Barbecue": {
+                "433 3rd AveBrooklyn, NY, 11215": {}
+            },
+            "Red Rooster": {
+                "310 Lenox AveNew York, NY, 10027": {}
+            },
+            "No. 7": {
+                "7 Greene AveBrooklyn, NY, 11238": {}
+            },
+            "Spritzenhaus": {
+                "33 Nassau AveBrooklyn, NY, 11222+3132": {}
+            },
+            "13th Step": {
+                "149 2nd AveNew York, NY, 10003+5760": {}
+            },
+            "The Penrose": {
+                "1590 2nd AveNew York, NY, 10028": {}
+            },
+            "Putnam's": {
+                "419 Myrtle AveBrooklyn, NY, 11205": {}
+            },
+            "Cipriani Dolci": {
+                "Grand Central Terminal, West BalconyNew York, NY, 10017+5503": {}
+            },
+            "Rare at Lexington": {
+                "303 Lexington AveNew York, NY, 10016+3165": {}
+            },
+            "Taproom No. 307": {
+                "307 3rd AveNew York, NY, 10010+3731": {}
+            },
+            "Faces and Names": {
+                "159 W 54th StNew York, NY, 10019+5322": {}
+            },
+            "Latitude": {
+                "783 8th AvenueNew York, NY, 10019": {}
+            },
+            "National Nightclub": {
+                "273 Brighton Beach AveBrooklyn, NY, 11235": {}
+            },
+            "Little Town \u2014 Union Square": {
+                "118 East 15th StreetNew York, NY, 10003": {}
+            },
+            "Fort Defiance": {
+                "365 VAN BRUNT STBROOKLYN, NY, 11231+1244": {}
+            }
+        },
+        "Barbecue": {
+            "Smorgasburg Prospect Park": {
+                "NEW YORK, NY, 11225Well House Dr": {}
+            },
+            "Smorgasburg Williamsburg": {
+                "7 StBrooklyn, NY, 11249": {}
+            },
+            "Arrogant Swine": {
+                "173 Morgan AveNY, 11237": {}
+            },
+            "Morgan's": {
+                "267 Flatbush AveBrooklyn, NY, 11217": {}
+            },
+            "Madangsui": {
+                "35 W 35th St Fl 8New York, NY, 10001+2205": {}
+            },
+            "Friendship BBQ": {
+                "136-76 39th AveNY, 11345": {}
+            },
+            "Pies 'n' Thighs": {
+                "166 S 4th StreetBrooklyn, NY, 11211": {}
+            },
+            "Dinosaur Bar-B-Que": {
+                "700 W 125th StNew York, NY, 10027": {}
+            },
+            "Bone Lick Park": {
+                "75 Greenwich AvenueNew York, NY, 10014": {}
+            },
+            "Miss Mamie's Spoonbread Too": {
+                "366 W 110th StNew York, NY, 10025+2633": {}
+            },
+            "Kang Suh": {
+                "1250 BroadwayNew York, NY, 10001+3716": {}
+            },
+            "Virgil's Barbecue": {
+                "152 West 44th StreetNew York, NY, 10036+4025": {}
+            },
+            "Pig Beach": {
+                "480 Union StreetNY, 11231": {}
+            },
+            "Mable's Smokehouse": {
+                "44 Berry StWilliamsburg, Brooklyn, NY, 11211": {}
+            },
+            "The Good Fork": {
+                "391 Van Brunt StRed Hook, NY, 11231": {}
+            },
+            "Peaches HotHouse \u2013 Fort Greene": {
+                "87 S Elliot PlaceFort Greene, NY, 11217": {}
+            },
+            "Fette Sau": {
+                "354 Metropolitan Ave": {}
+            },
+            "Dallas BBQ \u2014 Chelsea": {
+                "261 8th AveNew York, NY, 10011+1611": {}
+            },
+            "Daisy May's BBQ USA": {
+                "623 11th Ave": {}
+            },
+            "Dallas BBQ \u2014 Upper East Side": {
+                "1265 3rd AveNew York, NY, 10021+4301": {}
+            }
+        },
+        "Basque": {
+            "Txikito": {
+                "240 9th AveNew York, NY, 10001": {}
+            },
+            "El Porron": {
+                "1123 1st AveNew York, NY, 10065": {}
+            }
+        },
+        "Beef": {
+            "Ted's Montana Grill": {
+                "110 West 51st StreetNew York, NY, 10020": {}
+            }
+        },
+        "Beef N Ale": {
+            "Fraunces Tavern": {
+                "54 Pearl StNew York, NY, 10004+4300": {}
+            },
+            "Katch Brew & Grill": {
+                "31-19 Newtown AveAstoria, NY, 11102": {}
+            }
+        },
+        "Beer Gardens": {
+            "Loreley Biergarten": {
+                "7 Rivington StNew York, NY, 10002+1226": {}
+            },
+            "Hallo Berlin": {
+                "626 10th AveNew York, NY, 10036+3036": {}
+            },
+            "Spritzenhaus": {
+                "33 Nassau AveBrooklyn, NY, 11222+3132": {}
+            },
+            "Greenwood Park": {
+                "Brooklyn, NY, 11215555 7th Ave": {}
+            },
+            "Black Forest Brooklyn": {
+                "733 Fulton StreetBrooklyn, NY, 11217": {}
+            },
+            "Blue Ribbon Beer Garden": {
+                "190 Allen StreetNew York, NY, 10002": {}
+            },
+            "The Standard Biergarten": {
+                "848 Washington StNew York, NY, 10014": {}
+            },
+            "Harlem Tavern": {
+                "2153 Frederick Douglass BlvdNew York, NY, 10026": {}
+            },
+            "Birreria": {
+                "200 5th AveNew York, NY, 10010": {}
+            },
+            "Inwood Local": {
+                "4957 BroadwayNew York, NY, 10034": {}
+            },
+            "Manor Oktoberfest": {
+                "73-11 Yellowstone BlvdForest Hills, NY, 11375+4136": {}
+            },
+            "Bierhaus": {
+                "712 3rd AveNew York, NY, 10017+4012": {}
+            },
+            "Amity Hall \u2014\u00a0Morningside Heights": {
+                "982 Amsterdam AvenueNY, 10025": {}
+            },
+            "Beer Authority": {
+                "300 W 40th StNew York, NY, 10018": {}
+            },
+            "61 Local": {
+                "61 Bergen StBrooklyn, NY, 11201": {}
+            },
+            "Amity Hall \u2014 West Village": {
+                "80 West 3rd StreetNew York, NY, 10012+1008": {}
+            },
+            "Bier International": {
+                "2099 Frederick Douglass BlvdNew York, NY, 10026+2753": {}
+            },
+            "Anabel": {
+                "809 9th AveNY, 10019": {}
+            },
+            "Steeplechase Beer Garden": {
+                "1904 Surf AveBrooklyn, NY, 11224+2410": {}
+            },
+            "Covenhoven": {
+                "730 Classon AveBrooklyn, NY, 11238": {}
+            }
+        },
+        "Belgian": {
+            "BXL Cafe": {
+                "125 West 43rd StreetNew York, NY, 10036+6505": {}
+            },
+            "Pommes Frites": {
+                "123 2nd AveNew York, NY, 10003+8319": {}
+            },
+            "BXL Zoute": {
+                "50 W 22nd StNew York, NY, 10010": {}
+            },
+            "B. Cafe East": {
+                "240 East 75th St": {}
+            },
+            "Brasserie Magritte": {
+                "1463 3rd AveNew York, NY, 10028": {}
+            },
+            "Wafels & Dinges Truck": {
+                "NY,Various, check Twitter": {}
+            }
+        },
+        "Bistro": {
+            "Prohibition": {
+                "503 Columbus AveNew York, NY, 10024+4403": {}
+            },
+            "Cafe Luxembourg": {
+                "200 West 70th StreetNew York, NY, 10023+4323": {}
+            },
+            "Odeon": {
+                "145 West BroadwayNew York, NY, 10013+3373": {}
+            },
+            "Dirty French": {
+                "180 Ludlow StreetNY, 10002": {}
+            },
+            "Les Enfants de Boh\u00e9me": {
+                "177 Henry StreetNY, 10002": {}
+            },
+            "Balthazar": {
+                "80 Spring StNew York, NY, 10012+3907": {}
+            },
+            "Raoul's": {
+                "180 Prince StNew York, NY, 10012+2924": {}
+            },
+            "Mominette": {
+                "221 Knickerbocker AveNY, 11237": {}
+            },
+            "Burke & Wills": {
+                "229 West 79th StreetNew York, NY, 10024": {}
+            },
+            "L'Express": {
+                "249 Park AveNew York, NY, 10017+2510": {}
+            },
+            "Maison May": {
+                "246 Dekalb AveBrooklyn, NY, 11205+4116": {}
+            },
+            "Cafe Cluny": {
+                "284 West 12th StreetNew York, NY, 10014": {}
+            },
+            "Brasserie 8 1/2": {
+                "9 W 57th StNew York, NY, 10019+2602": {}
+            },
+            "Le Bateau Ivre": {
+                "230 E 51st StNew York, NY, 10022+6550": {}
+            },
+            "Artisanal Fromagerie Bistro & Wine Bar": {
+                "2 Park AveNew York, NY, 10022": {}
+            },
+            "Papillon Bistro & Bar": {
+                "22 E 54th StNew York, NY, 10022+4203": {}
+            },
+            "M Shanghai Bistro": {
+                "292 Grand StBrooklyn, NY, 11211": {}
+            },
+            "Minetta Tavern": {
+                "113 MacDougal StNew York, NY, 10012+1201": {}
+            },
+            "DB Bistro Moderne": {
+                "55 W 44th StreetNew York, NY, 10036": {}
+            },
+            "The Sutton Inn": {
+                "347 East 54th StreetNY, 10022": {}
+            }
+        },
+        "Boat Cruise": {
+            "Grand Banks": {
+                "Pier 25 \u2013 Hudson River at N Morre StreetNY, 10013": {}
+            }
+        },
+        "Brazilian": {
+            "Beco": {
+                "45 Richardson StBrooklyn, NY, 11211": {}
+            },
+            "Sushi Samba 7": {
+                "87 7th Ave SNew York, NY, 10014+3415": {}
+            },
+            "Malagueta": {
+                "2535 36th AveAstoria, NY, 11106+3209": {}
+            },
+            "Casa": {
+                "72 Bedford StNew York, NY, 10014+4016": {}
+            },
+            "Cozinha Latina": {
+                "37 Greenpoint AveQueens, NY, 11222": {}
+            },
+            "Favela Grill": {
+                "33-18 28th AveAstoria, NY, 11103": {}
+            },
+            "Churrascaria Plataforma": {
+                "316 West 49th StreetNew York, NY, 10019+7391": {}
+            },
+            "Fabiane's Cafe and Pastry": {
+                "142 N 5th StBrooklyn, NY, 11211": {}
+            },
+            "Pao de Queijo": {
+                "31-90 30th StreetNY, 11106": {}
+            },
+            "Fogo de Chao Brazilian Steakhouse": {
+                "40 West 53rd StreetNew York, NY, 10019": {}
+            },
+            "Beach Bistro 96": {
+                "95-19 Rockaway Beach BlvdRockaway Beach, Queens, NY, 11693": {}
+            },
+            "Zebu Grill": {
+                "305 E 92nd StNew York, NY, 10128+5447": {}
+            },
+            "Rice 'n Beans": {
+                "744 9th AveNew York, NY, 10019+6624": {}
+            },
+            "Beija Flor": {
+                "3802 29th StreetNY, 11101": {}
+            },
+            "Brazil Grill": {
+                "787 8th AveNew York, NY, 10036+7011": {}
+            },
+            "DiFiore Marquet": {
+                "15 E 12th StNew York, NY, 10003+4436": {}
+            },
+            "Via Brasil": {
+                "34 W 46th StNew York, NY, 10036+4520": {}
+            },
+            "Ipanema Restaurant": {
+                "43 West 46th StreetNY, 10036": {}
+            },
+            "Esperanto \u2014 East Village": {
+                "145 Avenue CNew York, NY, 10009": {}
+            },
+            "Favela Cubana": {
+                "543 LaGuardia PlaceNew York, NY, 10012": {}
+            }
+        },
+        "Breakfast Food": {
+            "The Garden Grille": {
+                "63 West 35th StreetNew York, NY, 10001": {}
+            },
+            "egg": {
+                "135 N5th St": {}
+            },
+            "Sadelle's": {
+                "463 West BroadwayNY, 10012": {}
+            },
+            "B.A.D. Burger": {
+                "131 Grand StBrooklyn, NY, 11211": {}
+            },
+            "La Bonbonniere": {
+                "83 8th AveNew York, NY, 10014": {}
+            },
+            "IHOP - Union Square": {
+                "235 East 14th StreetNew York, NY, 10003": {}
+            }
+        },
+        "British": {
+            "Bar Belly": {
+                "14 Orchard StNew York, NY, 10002": {}
+            },
+            "The Winslow": {
+                "243 East 14th StreetNew York, NY, 10003": {}
+            },
+            "The Breslin": {
+                "16 West 29th StreetNew York, NY, 10001": {}
+            },
+            "The Clocktower": {
+                "5 Madison AvenueNY, 10010": {}
+            },
+            "The Shakespeare": {
+                "24 East 39th StreetNew York, NY, 10016": {}
+            },
+            "Tea & Sympathy": {
+                "108 Greenwich AveNew York, NY, 10011+7741": {}
+            },
+            "Imli Urban Indian Cuisine": {
+                "1136 1st AveNY, 10065": {}
+            },
+            "The Heath": {
+                "542 West 27th StreetNew York, NY, 10001": {}
+            },
+            "GMT Tavern": {
+                "142 Bleecker StreetNew York, NY, 10012+1404": {}
+            },
+            "Jones Wood Foundry": {
+                "401 E 76th StNew York, NY, 10021+2559": {}
+            },
+            "Rathbones": {
+                "1702 2nd AveNew York, NY, 10128+3260": {}
+            }
+        },
+        "Buffet": {
+            "Cafe Duke - SoHo": {
+                "545 BroadwayNew York, NY, 10012": {}
+            },
+            "Cafe Duke - 51st": {
+                "140 W 51st StreetNew York, NY, 10020": {}
+            },
+            "Cafe Duke - 41st": {
+                "1450 BROADWAYNEW YORK, NY, 10018+2201": {}
+            },
+            "Jazz At Kitano": {
+                "66 Park AveNew York, NY, 10016": {}
+            },
+            "Lunch Box": {
+                "420 Lexington AveNew York, NY, 10170+0099": {}
+            }
+        },
+        "Burger": {
+            "Eisenberg's Sandwich Shop": {
+                "174 5th AveNew York, NY, 10010+5913": {}
+            },
+            "Burger Joint at Le Parker Meridien": {
+                "118 W 57th StNew York, NY, 10019+3318": {}
+            },
+            "Burger Joint \u2014 Greenwich Village": {
+                "33 West 8th StreetNew York, NY, 10011": {}
+            },
+            "DuMont Burger": {
+                "314 Bedford AvenueBrooklyn, NY, 11211": {}
+            },
+            "JG Melon": {
+                "1291 3rd AveNew York, NY, 10021+3301": {}
+            },
+            "JG Melon \u2014 Downtown": {
+                "89 Macdougal StreetNY, 10012": {}
+            },
+            "5 Napkin Burger \u2014 Upper West Side": {
+                "2315 BroadwayNew York, NY, 10024": {}
+            },
+            "BLT Burger": {
+                "470 Sixth AveNew York, NY, 10011": {}
+            },
+            "New York Sports Grill at JFK Terminal 5": {
+                "Jamaica, NY, 11430JFK Airport": {}
+            },
+            "67 Burger": {
+                "67 Lafayette AveFort Greene, NY, 11217": {}
+            },
+            "5 Napkin Burger \u2014 Hell's Kitchen": {
+                "630 9th AvenueNew York, NY, 10036": {}
+            },
+            "Williamsburger": {
+                "36-17 Greenpoint AveBrooklyn, NY,": {}
+            },
+            "Brgr": {
+                "287 7th AveNew York, NY, 10001": {}
+            },
+            "SoHo Park": {
+                "62 Prince StreetNew York, NY, 10012": {}
+            },
+            "Better Burger": {
+                "265 West 19th StreetNew York, NY, 10011+4022": {}
+            },
+            "The Little Beet Table": {
+                "333 Park Avenue SouthNY, 10010": {}
+            },
+            "Bosna Express": {
+                "791 Fairview AveQueens, NY, 11385": {}
+            },
+            "Heartland Brewery \u2014 Midtown West": {
+                "625 8th AveNew York, NY, 10018": {}
+            },
+            "Shake Shack \u2014 DUMBO": {
+                "Brooklyn, NY, 100042 Water Street": {}
+            },
+            "Bill's Bar & Burger \u2014 Financial District": {
+                "85 West StreetNew York, NY, 10024": {}
+            }
+        },
+        "Cafes": {
+            "Cafe Carlyle": {
+                "35 E 76th StNew York, NY, 10021": {}
+            },
+            "La Bergamote \u2014 Chelsea": {
+                "177 9th AveNew York, NY, 10011+4903": {}
+            },
+            "Beco": {
+                "45 Richardson StBrooklyn, NY, 11211": {}
+            },
+            "Cha An Japanese Tea House": {
+                "230 East 9th StreetNew York, NY, 10003": {}
+            },
+            "Dean & Deluca": {
+                "560 BroadwayNew York, NY, 10012+3938": {}
+            },
+            "High Street on Hudson": {
+                "637 Hudson StreetNY, 10014": {}
+            },
+            "Mae Mae Caf\u00e9": {
+                "68 Vandam StNew York, NY, 10013": {}
+            },
+            "Cafe Grumpy \u2013 Greenpoint": {
+                "193 Meserole AveBrooklyn, NY, 11222+2400": {}
+            },
+            "Iris Cafe - Store #9": {
+                "20 Columbia PlaceBrooklyn, NY, 11201+4564": {}
+            },
+            "Mudspot": {
+                "307 E 9th StNew York, NY, 10003+7731": {}
+            },
+            "Joe The Art Of Coffee \u2013 Greenwich Village": {
+                "141 Waverly PlNew York, NY, 10014+3843": {}
+            },
+            "Saltie": {
+                "378 Metropolitan AveBrooklyn, NY, 11211+3316": {}
+            },
+            "Caffe Reggio": {
+                "119 MacDougal StreetNew York, NY, 10012+1202": {}
+            },
+            "Cafe Loup": {
+                "105 W 13th StNew York, NY, 10011+7851": {}
+            },
+            "Pie Corps": {
+                "77 Driggs AveGreenpoint, Brooklyn, NY, 11222": {}
+            },
+            "Hungry Ghost \u2014 Prospect Heights": {
+                "1783 Sterling PlaceNY, 11233": {}
+            },
+            "Hungry Ghost \u2014 Fort Greene": {
+                "781 Fulton StreetFort Greene, Brooklyn, NY, 11217": {}
+            },
+            "Hungry Ghost \u2014 BRIC House": {
+                "647 Fulton StreetFort Greene, Brooklyn, NY, 11217": {}
+            },
+            "Dominique Ansel Kitchen": {
+                "137 7th Avenue SouthNY, 10014": {}
+            },
+            "Pier i Cafe": {
+                "West 70th Street in Riverside ParkNY,": {}
+            }
+        },
+        "Cajun": {
+            "107 West": {
+                "2787 BroadwayNew York, NY, 10025+2828": {}
+            },
+            "Bayou": {
+                "1072 Bay StreetStaten Island, NY, 10305+4906": {}
+            },
+            "Bourbon Street": {
+                "346 West 46th StreetNew York, NY, 10036": {}
+            },
+            "Heights Tavern": {
+                "3910 BroadwayNew York, NY, 10032": {}
+            },
+            "Maison Premiere": {
+                "298 Bedford AveBrooklyn, NY, 11211": {}
+            },
+            "Claw Daddy's": {
+                "185 Orchard StreetNew York, NY, 10002": {}
+            },
+            "Bourbon Street Cafe": {
+                "40-12 Bell BlvdBayside, NY, 11361": {}
+            },
+            "The Boil \u2013 Waverly": {
+                "17 Waverly PlaceNY, 10003": {}
+            },
+            "Cheeky Sandwiches": {
+                "35 Orchard StreetNew York, NY, 10002+6111": {}
+            },
+            "Soco": {
+                "509 Myrtle AveBrooklyn, NY, 11205+2509": {}
+            },
+            "Londel's": {
+                "2620 Frederick Dglss BlvdNew York, NY, 10030+1704": {}
+            },
+            "Delta Grill": {
+                "700 9th AveNew York, NY, 10036+3603": {}
+            },
+            "The Boil": {
+                "139 Chrystie StNew York, NY, 10002": {}
+            }
+        },
+        "California Cuisine": {
+            "Upland": {
+                "345 Park Avenue SouthNY, 10010": {}
+            },
+            "Dos Toros \u2014 Williamsburg": {
+                "189 Bedford AveBrooklyn, NY, 11211": {}
+            },
+            "Calico Jack's Cantina": {
+                "800 2nd AveNew York, NY, 10017+4709": {}
+            },
+            "Calexico \u2014 Park Slope": {
+                "Brooklyn, NY, 11215278 5th Ave": {}
+            },
+            "Blue Collar": {
+                "160 Havermeyer StBrooklyn, NY, 11211": {}
+            }
+        },
+        "Cambodian": {
+            "Num Pang \u2014 Times Square": {
+                "148 West 48th StreetNew York, NY, 10036": {}
+            },
+            "Num Pang \u2014 FiDi North": {
+                "200 Water StreetNY, 10038": {}
+            },
+            "Num Pang \u2014 Nomad": {
+                "1129 BroadwayNY, 10010": {}
+            },
+            "Num Pang \u2014 Union Square": {
+                "28 East 12th StreetNY, 1000": {}
+            },
+            "Num Pang \u2014 FiDi South": {
+                "NY, 1000475 Broad Street": {}
+            },
+            "Num Pang \u2014 Chelsea Market": {
+                "NY, 1001175 9th Ave": {}
+            },
+            "Num Pang \u2014 Grand Central": {
+                "140 East 41st StreetNY, 10017": {}
+            }
+        },
+        "Candy Stores": {
+            "Dylan's Candy Bar": {
+                "1011 3rd AveNew York, NY, 10021+8501": {}
+            },
+            "Neuhaus Chocolatier - Grand Central": {
+                "460 Grand Central TerminalNew York, NY, 10001": {}
+            },
+            "Teuscher Chocolates of Switzerland at Fifth Avenue": {
+                "620 5th AveNew York, NY, 10020+2402": {}
+            },
+            "La Bergamote \u2014 Chelsea": {
+                "177 9th AveNew York, NY, 10011+4903": {}
+            },
+            "Marie Belle Fine Treats & Chocolates": {
+                "484 Broome StNew York, NY, 10013+2213": {}
+            },
+            "Li-Lac Chocolates": {
+                "40 Eighth AvenueNew York, NY, 10014+4280": {}
+            },
+            "Chocolate Bar": {
+                "19 8th AveNew York, NY, 10014": {}
+            },
+            "Jacques Torres Chocolate \u2014 DUMBO": {
+                "66 Water StreetBrooklyn, NY, 11201+1048": {}
+            },
+            "Leonidas": {
+                "485 Madison AveNew York, NY, 10022+5800": {}
+            },
+            "Jacques Torres Chocolate \u2014 Midtown East": {
+                "110 East 57th StreetNY, 10022": {}
+            },
+            "Jacques Torres Chocolate \u2014 Rockefeller Center": {
+                "30 Rockefeller PlazaNY, 10112": {}
+            },
+            "Jacques Torres Chocolate \u2014 Upper West Side": {
+                "285 Amsterdam AvenueNY, 10023": {}
+            },
+            "Lindt Chocolate Shop": {
+                "665 5th AveNew York, NY, 10022": {}
+            },
+            "La Maison Du Chocolat": {
+                "30 Rockefeller PlzNew York, NY, 10112+0002": {}
+            },
+            "Lexington Candy Shop": {
+                "1226 Lexington AveNew York, NY, 10028+1406": {}
+            },
+            "Godiva Chocolatier - Columbia Circle": {
+                "10 Columbus CircleNew York, NY, 10019+1158": {}
+            },
+            "Chocolat Michel Cluizel": {
+                "584 Fifth AveNew York, NY, 10036": {}
+            },
+            "Hershey's Times Square Store": {
+                "1593 BroadwayNew York, NY, 10019+7406": {}
+            },
+            "Teuscher Chocolates of Switzerland at\u00a0Madison Avenue": {
+                "25 East 61st StreetNY, 10065": {}
+            },
+            "Ray's Candy Store": {
+                "113 Avenue ANew York, NY, 10009": {}
+            }
+        },
+        "Cantonese": {
+            "Vegetarian Dim Sum House": {
+                "24 Pell St": {}
+            },
+            "Mee Noodle Shop \u2014 Hell's Kitchen": {
+                "795 9th AveNew York, NY, 10019+5638": {}
+            },
+            "Linden Place": {
+                "3410 Linden PlFlushing, NY, 11354": {}
+            }
+        },
+        "Caribbean": {
+            "Cafe Cortadito": {
+                "210 E 3rd StNew York, NY, 10009+7437": {}
+            },
+            "The Soul Spot": {
+                "302 Atlantic AveBrooklyn, NY, 11201+5822": {}
+            },
+            "Sofrito": {
+                "679 Riverside DriveNew York, NY, 10031": {}
+            },
+            "The Food Sermon": {
+                "355 Rogers AveNY, 11225": {}
+            },
+            "Palo Santo": {
+                "652 Union StreetPark Slope, NY, 11215": {}
+            },
+            "Kombit Creole": {
+                "279 Flatbush AveBrooklyn, NY, 11217+2821": {}
+            },
+            "Negril Village": {
+                "70 West 3rd StreetNew York, NY, 10012+1078": {}
+            },
+            "Soule": {
+                "920 Fulton StBrooklyn, NY, 11238+2349": {}
+            },
+            "Miss Lily's \u2014 7A": {
+                "109 Avenue ANY, 10009": {}
+            },
+            "La Senorita": {
+                "115 Eldridge StreetNew York, NY, 10002": {}
+            },
+            "Miss Lily's \u2014 SoHo": {
+                "132 W Houston StNew York, NY, 10012": {}
+            },
+            "Sugar Bar": {
+                "254 W 72nd StNew York, NY, 10023+2821": {}
+            },
+            "Freda\u2019s Caribbean & Soul Cuisine": {
+                "993 Columbus AveNY, 10025": {}
+            },
+            "Corlette": {
+                "193A Nostrand AveBrooklyn, NY, 11205": {}
+            },
+            "El Castillo de Jagua": {
+                "113 Rivington StreetNew York, NY, 10002+2203": {}
+            },
+            "Battery Harris": {
+                "64 Frost StreetBrooklyn, NY, 11211": {}
+            },
+            "Tropical Sensation": {
+                "953 Amsterdam AveNew York, NY, 10025+8311": {}
+            },
+            "El Economico": {
+                "5589 BroadwayBronx, NY, 10463+5503": {}
+            },
+            "Krik Krak": {
+                "844 Amsterdam AveNew York, NY, 10025+5127": {}
+            },
+            "El Nuevo Amanecer": {
+                "117 Stanton StNew York, NY, 10002+1527": {}
+            }
+        },
+        "Casual": {
+            "Ootoya \u2014 Chelsea": {
+                "8 W 18th StNew York, NY, 10011+4602": {}
+            }
+        },
+        "Central American": {
+            "Leyenda": {
+                "221 Smith StreetBrooklyn, NY, 11201": {}
+            },
+            "Tropical Sensation": {
+                "953 Amsterdam AveNew York, NY, 10025+8311": {}
+            },
+            "Castillo Ecuatoriano": {
+                "4020 5th AveBrooklyn, NY, 11232+3434": {}
+            },
+            "Donna": {
+                "27 BroadwayBrooklyn, NY, 11211": {}
+            }
+        },
+        "Chicago Style": {
+            "Potbelly Sandwich Shop - Financial District": {
+                "101 Maiden LaneNew York, NY, 10038+4813": {}
+            },
+            "Emmett's": {
+                "50 MacDougal StreetNew York, NY, 10012": {}
+            }
+        },
+        "Chicken": {
+            "Fuku": {
+                "NY, 100031145 Broadway": {}
+            },
+            "Fields Good Chicken": {
+                "101 Maiden LaneNY, 10005": {}
+            },
+            "Hill Country \u2014 Brooklyn": {
+                "345 Adams StreetBrooklyn, NY, 11201": {}
+            },
+            "Hill Country": {
+                "30 West 26th StreetNew York, NY, 10010": {}
+            },
+            "Atomic Wings": {
+                "2090 Frederick Dglss BlvdNew York, NY, 10026+2788": {}
+            },
+            "Sweet Chick \u2014 Lower East Side": {
+                "178 Ludlow StreetNew York, NY,": {}
+            },
+            "Sweet Chick \u2014 Williamsburg": {
+                "164 Bedford AveNew York, NY, 11211": {}
+            },
+            "Dirty Bird To Go": {
+                "204 West 14 StreetNew York, NY, 10011": {}
+            },
+            "Kyochon": {
+                "319 5th AveNew York, NY, 10016+5014": {}
+            },
+            "Bon Chon - East Village": {
+                "9 StMarks Place": {}
+            },
+            "Mono + Mono": {
+                "116 E 4th StNew York, NY, 10003": {}
+            },
+            "Bon Chon - Times Square": {
+                "207 W 38th StNew York, NY, 10018": {}
+            },
+            "Bon Chon - Koreatown": {
+                "325 5th AveNew York, NY, 10016+5005": {}
+            },
+            "Hooters": {
+                "211 W 56th StNew York, NY, 10019+4312": {}
+            }
+        },
+        "Chicken Wings": {
+            "Dinosaur Bar-B-Que": {
+                "700 W 125th StNew York, NY, 10027": {}
+            },
+            "Momofuku Noodle Bar": {
+                "171 1st AveNew York, NY, 10003+3724": {}
+            },
+            "Ippudo \u2014 East Village": {
+                "65 4th AveNew York, NY, 10003+5220": {}
+            },
+            "Bonnie's Grill": {
+                "278 5th AveBrooklyn, NY, 11215+1911": {}
+            },
+            "Chicken Stop": {
+                "1764 1st AveNew York, NY, 10128+5913": {}
+            },
+            "200 Fifth": {
+                "200 5th AveBrooklyn, NY, 11217": {}
+            },
+            "Atomic Wings": {
+                "2090 Frederick Dglss BlvdNew York, NY, 10026+2788": {}
+            },
+            "Mudville": {
+                "126 Chambers StreetNew York, NY, 10007+1041": {}
+            },
+            "Ippudo \u2014 Westside": {
+                "321 West 51st StreetNew York, NY, 10019": {}
+            },
+            "Dinosaur Bar-B-Que \u2014 Park Slope": {
+                "604 Union StreetBrooklyn, NY, 11215": {}
+            },
+            "Mooncake Foods - Midtown": {
+                "359 W 54th StNew York, NY, 10019+7507": {}
+            },
+            "Dillingers Pub & Grill": {
+                "46-19 30th AveLong Island City, NY, 11103+1263": {}
+            },
+            "Mooncake Foods - Chelsea": {
+                "263 W 30th StNew York, NY, 10001+2811": {}
+            },
+            "Mooncake Foods - SoHo": {
+                "28 Watts StNew York, NY, 10013+1640": {}
+            }
+        },
+        "Chilean": {
+            "La Pulperia \u2014\u00a0Hell's Kitchen": {
+                "371 West 46th StNew York, NY, 10036+3810": {}
+            },
+            "The Heights Bar & Grill": {
+                "2867 BroadwayNew York, NY, 10025+7805": {}
+            }
+        },
+        "Chinese": {
+            "Joe's Shanghai \u2014 Chinatown": {
+                "46 BoweryNew York, NY, 10013+5134": {}
+            },
+            "Macao Trading Company": {
+                "311 Church StreetNew York, NY, 10013": {}
+            },
+            "Grand Sichuan \u2014 West Village": {
+                "15 Seventh Ave SouthNew York, NY, 10014": {}
+            },
+            "Friendship BBQ": {
+                "136-76 39th AveNY, 11345": {}
+            },
+            "Vegetarian Dim Sum House": {
+                "24 Pell St": {}
+            },
+            "Cafe Kashkar": {
+                "1141 Brighton Beach AveBrooklyn, NY, 11235+5903": {}
+            },
+            "Asia Roma": {
+                "40 Mulberry StreetNew York, NY, 10013+4340": {}
+            },
+            "Great NY Noodle Town": {
+                "28 1/2 BoweryNew York, NY, 10013+5100": {}
+            },
+            "Congee Village": {
+                "100 Allen StNew York, NY, 10002+3053": {}
+            },
+            "Wu Liang Ye": {
+                "36 W 48th StNew York, NY, 10036+1801": {}
+            },
+            "M Shanghai Bistro": {
+                "292 Grand StBrooklyn, NY, 11211": {}
+            },
+            "Peking Duck House - Chinatown": {
+                "28 Mott StNew York, NY, 10013+5000": {}
+            },
+            "Nice Green Bo": {
+                "66 Bayard StNew York, NY, 10013+4940": {}
+            },
+            "Drunken Dumpling": {
+                "137 First AveEast Village, NY, 10003": {}
+            },
+            "Yaso Tangbao": {
+                "148 Lawrence StreetBrooklyn, NY, 11201": {}
+            },
+            "Tao \u2014\u00a0Downtown": {
+                "92 9th AveNY, 10011": {}
+            },
+            "Cafe China": {
+                "13 East 37th StreetNew York, NY, 10016": {}
+            },
+            "Wa Jeal": {
+                "1588 2nd AveNew York, NY, 10028": {}
+            },
+            "Yun Nan Flavour Snack Shop": {
+                "775A 49th StBrooklyn, NY, 11220": {}
+            },
+            "Shun Lee Cafe": {
+                "43 West 65th StreetNew York, NY, 10023": {}
+            }
+        },
+        "Coffee & Tea Shops": {
+            "Jack's Stir Brewed Coffee": {
+                "136 W 10th StNew York, NY, 10014": {}
+            },
+            "Cha An Japanese Tea House": {
+                "230 East 9th StreetNew York, NY, 10003": {}
+            },
+            "Marie Belle Fine Treats & Chocolates": {
+                "484 Broome StNew York, NY, 10013+2213": {}
+            },
+            "Chocolate Bar": {
+                "19 8th AveNew York, NY, 10014": {}
+            },
+            "Cafe Grumpy \u2013 Greenpoint": {
+                "193 Meserole AveBrooklyn, NY, 11222+2400": {}
+            },
+            "Aroma Espresso Bar \u2014 SoHo": {
+                "145 Greene StreetNew York, NY, 10012": {}
+            },
+            "Joe The Art Of Coffee \u2013 Greenwich Village": {
+                "141 Waverly PlNew York, NY, 10014+3843": {}
+            },
+            "Sant Ambroeus \u2014 West Village": {
+                "259 West 4th StreetNew York, NY, 10014+3205": {}
+            },
+            "Gorilla Coffee": {
+                "97 5th AveBrooklyn, NY, 11217+3201": {}
+            },
+            "Hungry Ghost \u2014 Prospect Heights": {
+                "1783 Sterling PlaceNY, 11233": {}
+            },
+            "Hungry Ghost \u2014 Fort Greene": {
+                "781 Fulton StreetFort Greene, Brooklyn, NY, 11217": {}
+            },
+            "Hungry Ghost \u2014 BRIC House": {
+                "647 Fulton StreetFort Greene, Brooklyn, NY, 11217": {}
+            },
+            "Hi Collar": {
+                "214 East 10th StreetNew York, NY, 10003": {}
+            },
+            "Hungry Ghost \u2014 Flatbush": {
+                "253 Flatbush AveProspect Heights, Brooklyn, NY, 11234": {}
+            },
+            "Cafe Grumpy \u2013 Park Slope": {
+                "383 7th AveBrooklyn, NY, 11215": {}
+            },
+            "Cafe Pedlar - Manhattan": {
+                "17 Clinton StNew York, NY, 10002": {}
+            },
+            "Bittersweet": {
+                "180 Dekalb AveBrooklyn, NY, 11205": {}
+            },
+            "The Rabbithole": {
+                "352 Bedford AveWilliamsburg, Brooklyn, NY, 11211": {}
+            },
+            "Tea Lounge": {
+                "837 Union StPark Slope, NY, 11215": {}
+            },
+            "Joe The Art Of Coffee \u2013 Grand Central": {
+                "Graybar Passage, Grand Central TerminalNew York, NY, 10017": {}
+            }
+        },
+        "Colombian": {
+            "Tierras Colombianas": {
+                "3301 BroadwayAstoria, NY, 11106": {}
+            },
+            "Cafe La Nueva": {
+                "8502 37th AveJackson Heights, NY, 11372": {}
+            },
+            "Cafe Regular du Nord": {
+                "158A Berkeley PlaceBrooklyn, NY, 11217+3604": {}
+            },
+            "Colombia in Park Slope": {
+                "376 5th AveBrooklyn, NY, 11215+3380": {}
+            }
+        },
+        "Contemporary": {
+            "Chef's Table at Brooklyn Fare": {
+                "200 Schermerhorn StreetBrooklyn, NY, 11201+5816": {}
+            },
+            "The Modern": {
+                "9 W 53rd StNew York, NY, 10019+5401": {}
+            },
+            "JoJo": {
+                "160 E 64th StNew York, NY, 10021+7412": {}
+            },
+            "Prospect": {
+                "773 Fulton StBrooklyn, NY, 11217": {}
+            },
+            "Peacock Alley": {
+                "301 Park AveNew York, NY, 10022+6844": {}
+            },
+            "HK Hell's Kitchen": {
+                "523 9th AveNew York, NY, 10018+1326": {}
+            },
+            "Norma's at Le Parker Meridien": {
+                "118 W 57th StNew York, NY, 10019+3318": {}
+            },
+            "North Square": {
+                "103 Waverly PlNew York, NY, 10011+9110": {}
+            },
+            "Rosa Mexicano \u2013 Lincoln Center": {
+                "61 Columbus AveNew York, NY, 10023+6901": {}
+            },
+            "Merchants Cigar Bar": {
+                "1125 1st AveNew York, NY, 10021+8301": {}
+            },
+            "Oovina": {
+                "496 9th AveNew York, NY, 10018+4131": {}
+            },
+            "Blue Hill": {
+                "75 Washington PlaceNew York, NY, 10011+9174": {}
+            },
+            "Blue Fin": {
+                "1567 BroadwayNew York, NY, 10036+1517": {}
+            },
+            "Heartbeat At W New York Hotel": {
+                "149 E 49th StNew York, NY, 10017+1202": {}
+            },
+            "The Garden - Four Seasons": {
+                "57 E 57th StNew York, NY, 10022+1908": {}
+            },
+            "Tavern On The Green": {
+                "Central Park at West 67th StreetNew York, NY, 10023": {}
+            },
+            "Bridge Cafe": {
+                "279 Water StNew York, NY, 10038+1702": {}
+            },
+            "Hundred Acres": {
+                "38 MacDougal StNew York, NY, 10012+2940": {}
+            },
+            "Tout Va Bien": {
+                "311 W 51st StNew York, NY, 10019+6408": {}
+            },
+            "Redeye Grill": {
+                "890 7th AveNew York, NY, 10019+3203": {}
+            }
+        },
+        "Continental": {
+            "Harry's Cafe & Steak": {
+                "1 Hanover SquareNew York, NY, 10004+2601": {}
+            },
+            "Lorenzo's": {
+                "1100 South AvenueStaten Island, NY, 10314": {}
+            },
+            "Triomphe": {
+                "49 W 44th StNew York, NY, 10036+6613": {}
+            },
+            "The View": {
+                "1535 BroadwayNew York, NY, 10036+4077": {}
+            },
+            "Carlyle Restaurant": {
+                "35 E 76th StNew York, NY, 10028": {}
+            },
+            "Piccola Venezia": {
+                "42-01 28th AveAstoria, NY, 11103+2801": {}
+            },
+            "The Round Table": {
+                "59 W 44th StNew York, NY, 10036": {}
+            },
+            "TY - Four Seasons": {
+                "57 East 57th St": {}
+            },
+            "Park Room at the Helmsley": {
+                "36 Central Park SouthNew York, NY, 10019": {}
+            },
+            "Russian Tea Room": {
+                "150 W57th St": {}
+            },
+            "Employees Only": {
+                "510 Hudson StreetNew York, NY, 10014": {}
+            },
+            "Restaurant Charlotte": {
+                "145 W 44th StNew York, NY, 10036+4012": {}
+            },
+            "Gin Parlour": {
+                "111 E 48th StNew York, NY, 10017+1222": {}
+            },
+            "Sardi's": {
+                "234 W 44th StNew York, NY, 10036+3909": {}
+            },
+            "Hurley's": {
+                "232 W 48th StNew York, NY, 10036+1424": {}
+            },
+            "The Astor Room": {
+                "34-12 36th StLong Island City, NY, 11106+1214": {}
+            },
+            "Cafe Mocha": {
+                "116 2nd AveNew York, NY, 10003+8302": {}
+            },
+            "Public House": {
+                "140 E 41st StNew York, NY, 10017": {}
+            }
+        },
+        "Crab House": {
+            "Brooklyn Crab": {
+                "24 Reed StBrooklyn, NY, 11231": {}
+            },
+            "Crab Spot": {
+                "833 Union StBrooklyn, NY, 11215": {}
+            }
+        },
+        "Crepe": {
+            "Vive La Crepe \u2014 Union Square": {
+                "114 University PlaceNew York, NY, 10003": {}
+            },
+            "Vive La Crepe \u2014 Upper West Side": {
+                "189 Columbus AvenueNew York, NY, 10023": {}
+            },
+            "Vive La Crepe \u2014 SoHo": {
+                "51 Spring StreetNew York, NY, 10012+5726": {}
+            },
+            "By Suzette": {
+                "78 Chambers StreetNew York, NY, 10007": {}
+            },
+            "Bonjour Crepes & Wine": {
+                "1585 2nd AveNew York, NY, 10028": {}
+            },
+            "Bonjour Corner & Wine Bar": {
+                "New York, NY, 100281585 2nd Ave": {}
+            },
+            "Crepes du Nord": {
+                "17 South William StreetNew York, NY, 10004+2426": {}
+            }
+        },
+        "Croatian": {
+            "Cka Ka Qellu": {
+                "2321 Hughes AvenueNY, 10458": {}
+            }
+        },
+        "Cuban": {
+            "Cafe Cortadito": {
+                "210 E 3rd StNew York, NY, 10009+7437": {}
+            },
+            "Asia de Cuba": {
+                "415 Lafayette StreetNew York, NY, 10003": {}
+            },
+            "Cafe Habana": {
+                "229 Elizabeth StNew York, NY, 10012+5518": {}
+            },
+            "Victor's Cafe": {
+                "236 W 52nd StNew York, NY, 10019+5822": {}
+            },
+            "Cienfuegos": {
+                "95 Avenue ANew York, NY, 10009+6107": {}
+            },
+            "Pilar Cuban Eatery": {
+                "397 Greene AveBrooklyn, NY, 11216": {}
+            },
+            "Amor Cubano": {
+                "2018 3rd AveHarlem, NY, 10029": {}
+            },
+            "Habana Outpost": {
+                "8589500": {}
+            },
+            "Alegria Scratch Kitchen": {
+                "483 Grand StreetNY, 11211": {}
+            },
+            "Cubana Cafe \u2014 Carroll Garden": {
+                "272 Smith StreetCobble Hill, Brooklyn, NY, 11231": {}
+            },
+            "Cubana Cafe \u2014 Park Slope": {
+                "80 6th AvePark Slope, Brooklyn, NY, 11217": {}
+            },
+            "Calle Dao": {
+                "38 West 39th StreetNY, 10018": {}
+            },
+            "Coppelia": {
+                "207 W 14th StNew York, NY, 10011+7143": {}
+            },
+            "Cuba": {
+                "222 Thompson StreetNew York, NY, 10012+1363": {}
+            },
+            "Havana New York": {
+                "58 West 38th StNew York, NY, 10018": {}
+            },
+            "Cafe Con Leche": {
+                "2026 2nd AvenueNew York, NY, 10024+5857": {}
+            },
+            "Little Havana": {
+                "30 Cornelia StNew York, NY, 10014+5611": {}
+            },
+            "Cafe Boca Ciega": {
+                "355 BroadwayNew York, NY, 10013": {}
+            },
+            "Favela Cubana": {
+                "543 LaGuardia PlaceNew York, NY, 10012": {}
+            },
+            "Cubana Social": {
+                "70 N6th Street": {}
+            }
+        },
+        "Czechoslovakian": {
+            "Koliba": {
+                "31-11 23rd AveAstoria, NY, 11105+2406": {}
+            }
+        },
+        "Delicatessens": {
+            "Barney Greengrass": {
+                "541 Amsterdam AveNew York, NY, 10024+2803": {}
+            },
+            "\u00c9picerie Boulud": {
+                "1900 Broadway0, NY, 10023": {}
+            },
+            "Mill Basin Kosher Delicatessen": {
+                "5823 Avenue TBrooklyn, NY, 11234+4111": {}
+            },
+            "Salumeria Biellese": {
+                "376 8th AveNew York, NY, 10001+4849": {}
+            },
+            "Second Avenue Deli": {
+                "162 East 33rd StreetNew York, NY, 10016": {}
+            },
+            "Shelsky's of Brooklyn": {
+                "141 Court StreetBrooklyn, NY, 11231": {}
+            },
+            "Russo's Mozzarella & Pasta": {
+                "363 7th AveBrooklyn, NY, 11215": {}
+            },
+            "Salumeria Rosi - Upper West Side": {
+                "283 Amsterdam AveUpper West Side, NY, 10023": {}
+            },
+            "Sorriso Salumeria": {
+                "4416 30th AveAstoria, NY, 11103+2152": {}
+            },
+            "Katz's Delicatessen": {
+                "205 E Houston StNew York, NY, 10002+1017": {}
+            },
+            "Fleisher's": {
+                "192 5th AveBrooklyn, NY, 11217+3505": {}
+            },
+            "David's Brisket House": {
+                "533 Nostrand AveBrooklyn, NY, 11216+2804": {}
+            },
+            "Zaragoza Mexician Deli": {
+                "215 Avenue ANew York, NY, 10009+3459": {}
+            },
+            "Your Taste": {
+                "100 West 23rd StreetNew York, NY, 10011": {}
+            },
+            "Gottlieb": {
+                "352 Roebling StBrooklyn, NY, 11211+6240": {}
+            },
+            "Mile End": {
+                "97A Hoyt StBrooklyn, NY, 11217": {}
+            },
+            "Bread Factory Cafe - Garment District": {
+                "470 7th AveNew York, NY, 10018+7600": {}
+            },
+            "Bread Factory Cafe - Midtown West": {
+                "935 8th AveNew York, NY, 10019+4256": {}
+            },
+            "Guy & Gallard \u2014 Murray Hill": {
+                "120 East 34th StreetNew York, NY, 10016+4609": {}
+            },
+            "Guy & Gallard \u2014 Madison Avenue": {
+                "180 Madison AveNew York, NY, 10016+4604": {}
+            }
+        },
+        "Dessert": {
+            "Marie Belle Fine Treats & Chocolates": {
+                "484 Broome StNew York, NY, 10013+2213": {}
+            },
+            "Four & Twenty Blackbirds": {
+                "439 3rd AveGowanus, NY, 11215": {}
+            },
+            "ChikaLicious Dessert Bar": {
+                "203 E 10th StNew York, NY, 10003+7601": {}
+            },
+            "Cones": {
+                "272 Bleecker StNew York, NY, 10014+4104": {}
+            },
+            "Lemon Ice King of Corona": {
+                "5202 108th StCorona-A, NY, 11368+3303": {}
+            },
+            "Brooklyn Farmacy": {
+                "513 Henry StreetBrooklyn, NY, 11231+3105": {}
+            },
+            "Junior's": {
+                "386 Flatbush Avenue ExtBrooklyn, NY, 11201+5331": {}
+            },
+            "Lindt Chocolate Shop": {
+                "665 5th AveNew York, NY, 10022": {}
+            },
+            "Caputo Bakery": {
+                "329 Court StreetBROOKLYN, NY, 11231+4335": {}
+            },
+            "William J. Greenberg Jr. Desserts": {
+                "2156 BroadwayNew York, NY, 10023": {}
+            },
+            "Financier Patisserie \u2013 Midtown": {
+                "983 1st AveNew York, NY, 10022+5102": {}
+            },
+            "Pie Corps": {
+                "77 Driggs AveGreenpoint, Brooklyn, NY, 11222": {}
+            },
+            "Financier Patisserie \u2013 First Ave": {
+                "983 First AveNew York, NY, 10022": {}
+            },
+            "Van Leeuwen \u2014 Greenpoint": {
+                "620 Manhattan AveBrooklyn, NY, 11222": {}
+            },
+            "Cafe Triskelll": {
+                "33-04 36th AveAstoria, NY, 11106": {}
+            },
+            "Cookie Road": {
+                "94 Franklin StBrooklyn, NY, 11222": {}
+            },
+            "BLT Burger": {
+                "470 Sixth AveNew York, NY, 10011": {}
+            },
+            "Momofuku Milk Bar - East Village": {
+                "251 E 13th StNew York, NY, 10003": {}
+            },
+            "The Pie Shop": {
+                "211 Prospect Park WestPark Slope, NY, 11215": {}
+            },
+            "Erin McKenna's Bakery": {
+                "248 Broome StreetNew York, NY, 10002+3855": {}
+            }
+        },
+        "Dim Sum": {
+            "Dumpling Man": {
+                "100 StMarks Place": {}
+            },
+            "Red Egg": {
+                "202 Centre StreetNew York, NY, 10013": {}
+            },
+            "Dim Sum Go Go": {
+                "5 E BroadwayNew York, NY, 10038+1013": {}
+            },
+            "Golden Unicorn": {
+                "18 E BroadwayNew York, NY, 10002+6803": {}
+            },
+            "Jin Fong": {
+                "20 Elizabeth StreetChinatown, Manhattan, NY, 10013": {}
+            },
+            "The Cottage - Flatiron": {
+                "33 Irving PlazaNew York, NY, 10003+2332": {}
+            },
+            "Joy Luck Palace": {
+                "98 Mott StreetChinatown, Manhattan, NY, 10013": {}
+            },
+            "Linden Place": {
+                "3410 Linden PlFlushing, NY, 11354": {}
+            },
+            "C&C Prosperity Dumpling": {
+                "69 Clinton StNew York, NY, 10002+2439": {}
+            }
+        },
+        "Diners": {
+            "Eat Here Now": {
+                "839 Lexington AveNew York, NY, 10021+7401": {}
+            },
+            "El Greco": {
+                "1821 Emmons AveBrooklyn, NY, 11235+2715": {}
+            },
+            "7th Avenue Donuts Luncheonette": {
+                "324 7th AveBrooklyn, NY, 11215+4140": {}
+            },
+            "egg": {
+                "135 N5th St": {}
+            },
+            "Kellogg's Diner": {
+                "518 Metropolitan AveWilliamsburg, NY, 11211": {}
+            },
+            "Remedy Diner": {
+                "245 East Houston StreetNew York, NY, 10002": {}
+            },
+            "Le French Diner": {
+                "188 Orchard StreetNew York, NY, 10002+1411": {}
+            },
+            "EJ's Luncheonette": {
+                "1271 3rd AveNew York, NY, 10021+3657": {}
+            },
+            "Bel-Aire Diner": {
+                "31-91 21st StreetAstoria, NY, 11106": {}
+            },
+            "Sigiri": {
+                "91 First AvenueNew York, NY, 10009": {}
+            },
+            "Little Purity": {
+                "390 7th AveBrooklyn, NY, 11215+4306": {}
+            },
+            "Westway Diner": {
+                "614 9th AveNew York, NY, 10036+3731": {}
+            },
+            "Coppelia": {
+                "207 W 14th StNew York, NY, 10011+7143": {}
+            },
+            "Brooklyn Diner": {
+                "212 W 57th StNew York, NY, 10019+3200": {}
+            },
+            "Madison": {
+                "965 1st AveNew York, NY, 10022+5102": {}
+            },
+            "Comfort Diner": {
+                "214 East 45th StreetNew York, NY, 10017+3302": {}
+            },
+            "Charlys": {
+                "110 Trinity PlNew York, NY, 10006+1031": {}
+            },
+            "Tom's Restaurant": {
+                "2880 BroadwayNew York, NY, 10025+7848": {}
+            },
+            "Hollywood Diner": {
+                "574 6th AveNew York, NY, 10011+2019": {}
+            },
+            "Cozy Soup & Burger": {
+                "739 BroadwayNew York, NY, 10003+6810": {}
+            }
+        },
+        "Dominican": {
+            "Mamajuana Cafe \u2014 Inwood": {
+                "247 Dyckman StNew York, NY, 10034+5349": {}
+            },
+            "Crudo": {
+                "235 W 35th StNew York, NY, 10001t": {}
+            }
+        },
+        "Eclectic": {
+            "La Sirena": {
+                "88 9th AvenueNY, 10011": {}
+            },
+            "Cafe Boulud": {
+                "20 E 76th StNew York, NY, 10021+2643": {}
+            },
+            "Sweetwater": {
+                "105 N 6th StreetBrooklyn, NY, 11211+3001": {}
+            },
+            "aRoqa": {
+                "206 9th AveNY, 10011": {}
+            },
+            "Asia Roma": {
+                "40 Mulberry StreetNew York, NY, 10013+4340": {}
+            },
+            "Saltie": {
+                "378 Metropolitan AveBrooklyn, NY, 11211+3316": {}
+            },
+            "Fatty Fish": {
+                "406 East 64th StreetNew York, NY, 10021+7847": {}
+            },
+            "Loi Estiatorio": {
+                "132 W 58th StNew York, NY, 10019+2144": {}
+            },
+            "ACME": {
+                "9 Great Jones StNew York, NY, 10012+1128": {}
+            },
+            "Penthouse 808": {
+                "8-08 Queens Plaza SouthLong Island City, NY, 11101": {}
+            },
+            "Essex": {
+                "120 Essex StNew York, NY, 10002": {}
+            },
+            "Joe & Misses Doe": {
+                "45 East 1 StreetNew York, NY, 10009": {}
+            },
+            "Russian Tea Room": {
+                "150 W57th St": {}
+            },
+            "The Roxy Hotel Bar & Lounge": {
+                "2 6th AveNew York, NY, 10013+2401": {}
+            },
+            "Vida": {
+                "381 Van Duzer StreetStaten Island, NY, 10304+2754": {}
+            },
+            "Carol's Cafe": {
+                "1571 Richmond RoadStaten Island, NY, 10304+2313": {}
+            },
+            "The Breslin": {
+                "16 West 29th StreetNew York, NY, 10001": {}
+            },
+            "James Beard House": {
+                "167 W 12th StNew York, NY, 10027+3723": {}
+            },
+            "OBAO \u2014 Midtown East": {
+                "222 East 53rd StreetNew York, NY, 10022+5205": {}
+            },
+            "The Deco": {
+                "231 West 39th StreetNY, 10018": {}
+            }
+        },
+        "Ecuadorian": {
+            "Nano Ecuadorian Kitchen": {
+                "691 10th AveNew York, NY, 10036": {}
+            },
+            "Sol de Quito": {
+                "160 Irving AveBrooklyn, NY, 11237": {}
+            }
+        },
+        "Egyptian": {
+            "Horus Kebab House": {
+                "93 Avenue BNew York, NY, 10009+6283": {}
+            },
+            "Qathra": {
+                "Brooklyn, NY, 11218+53041112 Cortelyou Rd": {}
+            }
+        },
+        "English": {
+            "Wilfie & Nell": {
+                "228 W 4th StreetNew York, NY, 10014": {}
+            },
+            "The Houndstooth Pub": {
+                "520 8th AveNew York, NY, 10018+6507": {}
+            },
+            "Freemans": {
+                "Freeman Alley (off Rivington St)": {}
+            },
+            "Tea & Sympathy": {
+                "108 Greenwich AveNew York, NY, 10011+7741": {}
+            },
+            "Lillie's": {
+                "13 East 17th StreetNew York, NY, 10003": {}
+            },
+            "P.J. Moran's": {
+                "3 E 48th StNew York, NY, 10017+1027": {}
+            },
+            "Pig n' Whistle On Third": {
+                "922 3rd AveNew York, NY, 10022+3605": {}
+            },
+            "Pig n' Whistle On Second": {
+                "951 Second AveNY, 10022": {}
+            },
+            "Cock And Bull": {
+                "23 W 45th StNew York, NY, 10036": {}
+            },
+            "The Churchill": {
+                "45 E 28th StNew York, NY, 10016": {}
+            },
+            "Alchemy": {
+                "56 5th AveBrooklyn, NY, 11217": {}
+            },
+            "O'Hara's": {
+                "120 Cedar StNew York, NY, 10006": {}
+            },
+            "The Atlantic Chipshop": {
+                "129 Atlantic AveBrooklyn, NY, 11201+6725": {}
+            },
+            "GMT Tavern": {
+                "142 Bleecker StreetNew York, NY, 10012+1404": {}
+            },
+            "Dear Bushwick": {
+                "41 Wilson AveBrooklyn, NY, 11237": {}
+            },
+            "Cooper's Craft & Kitchen": {
+                "87 2nd AveNew York, NY, 10003": {}
+            },
+            "Lillie's - Midtown": {
+                "249 West 49th StreetNew York, NY, 10019": {}
+            },
+            "Penny Farthing": {
+                "New York, NY, 10003103 3rd Ave": {}
+            }
+        },
+        "Ethiopian": {
+            "Tsion Cafe": {
+                "763 StNicholas Ave": {}
+            },
+            "Queen of Sheba": {
+                "650 10th AveNew York, NY, 10036+2970": {}
+            },
+            "Bati Kitchen": {
+                "747 Fulton StFort Greene, NY, 11217": {}
+            },
+            "Meskerem": {
+                "468 W 47th StNew York, NY, 10036+2375": {}
+            },
+            "Awash": {
+                "947 Amsterdam AveNew York, NY, 10025+8359": {}
+            },
+            "Ghenet": {
+                "348 Douglass StBrooklyn, NY, 11217+4528": {}
+            }
+        },
+        "Ethnic": {
+            "Katz's Delicatessen": {
+                "205 E Houston StNew York, NY, 10002+1017": {}
+            }
+        },
+        "Euro Asian": {
+            "Zeytuna": {
+                "59 Maiden LaneNew York, NY, 10038+4502": {}
+            },
+            "Mont Blanc": {
+                "344 West 52nd StreetNew York, NY, 10019": {}
+            }
+        },
+        "European": {
+            "King": {
+                "18 King StreetNY, 10014": {}
+            },
+            "ATRIO Wine Bar | Restaurant": {
+                "102 North End AveNY, 10282": {}
+            },
+            "Alor Cafe": {
+                "2110 Richmond RdStaten Island, NY, 10306+2572": {}
+            },
+            "Brasserie 8 1/2": {
+                "9 W 57th StNew York, NY, 10019+2602": {}
+            },
+            "Koliba": {
+                "31-11 23rd AveAstoria, NY, 11105+2406": {}
+            },
+            "Sammy's Roumanian Steak House": {
+                "157 Chrystie StNew York, NY, 10002+2836": {}
+            },
+            "Thalia": {
+                "828 8th AveNew York, NY, 10019+7403": {}
+            },
+            "ASKA": {
+                "47 S 5th StreetWilliamsburg, Brooklyn, NY, 9293376792": {}
+            },
+            "The Barrel Room at City Winery": {
+                "155 Varick StreetNY, 10013": {}
+            },
+            "Le Fond": {
+                "105 Norman AvenueNY, 11222": {}
+            },
+            "Batard": {
+                "239 West BroadwayNew York, NY, 10013": {}
+            },
+            "Cafe Glechik": {
+                "3159 Coney Island AveBrooklyn, NY, 11235+6443": {}
+            },
+            "Peri Ela": {
+                "1361 Lexington AveNew York, NY, 10128+1508": {}
+            },
+            "Karczma": {
+                "136 Greenpoint AveBrooklyn, NY, 11222+2202": {}
+            },
+            "Kitchen at Cobble Hill": {
+                "254 Court StBrooklyn, NY, 11231": {}
+            },
+            "TSQ": {
+                "723 7th AveNew York, NY, 10019+6832": {}
+            },
+            "Trinity Place": {
+                "115 BroadwayNew York, NY, 10006": {}
+            },
+            "Cafe Gitane": {
+                "242 Mott StNew York, NY, 10012+3456": {}
+            },
+            "Providence": {
+                "311 West 57th StreetBrooklyn, NY, 10019": {}
+            },
+            "Da Tommy Osteri": {
+                "14 Bedford St": {}
+            }
+        },
+        "Family": {
+            "Serendipity 3": {
+                "225 East 60th StreetNew York, NY, 10022+1442": {}
+            },
+            "Ziggy's": {
+                "1485 2nd AveNew York, NY, 10021+2001": {}
+            },
+            "Cafe Nunez": {
+                "240 West 35th StreetNew York, NY, 10001": {}
+            },
+            "TGI Friday's \u2014 Midtown East": {
+                "677 Lexington AveNew York, NY, 10022": {}
+            },
+            "TGI Friday's \u2014 Times Square": {
+                "761 7th AveNew York, NY, 10019": {}
+            },
+            "TGI Friday's \u2014 Rockefeller Plaza": {
+                "604 5th AveNew York, NY, 10020": {}
+            },
+            "TGI Friday's \u2014 Grand Central": {
+                "47 East 42nd StreetNew York, NY, 10017": {}
+            },
+            "TGI Friday's \u2014 Penn Station": {
+                "484 8th AveNew York, NY, 10001": {}
+            },
+            "TGI Friday's \u2014 Financial District": {
+                "47 BroadwayNew York, NY, 10004": {}
+            }
+        },
+        "Fast Food": {
+            "Five Guys - Midtown": {
+                "36 W 48th StNew York, NY, 10036+1809": {}
+            },
+            "Tokyo 11": {
+                "133 East 31st StreetNew York, NY, 10016+6803": {}
+            }
+        },
+        "Fish & Chips": {
+            "A Salt & Battery": {
+                "112 Greenwich AveNew York, NY, 10011+7704": {}
+            },
+            "Eastwood": {
+                "221 East BroadwayNew York, NY, 10002": {}
+            },
+            "Mother of Pearl": {
+                "95 Ave ANew York, NY, 10009": {}
+            }
+        },
+        "Fondue": {
+            "La Bonne Soupe": {
+                "48 W 55th StNew York, NY, 10019+5313": {}
+            },
+            "Taureau": {
+                "558 Broome StreetNew York, NY, 10013": {}
+            }
+        },
+        "Food Trucks": {
+            "Schnitzel & Things Truck": {
+                "NY,Financial District: Broad & Pearl StreetsWTC: North End Avenue & Vessey StreetMidtown: 55th Street & Broadway52nd Street & 6th Avenue51st Street & Park Avenue49th Street & 6th Aven": {}
+            },
+            "Eddie's Pizza": {
+                "NY,Midtown: 46th Street & 5th AvenueFinancial District: Old Slip & Front StreetHudson Square: Varick & King Streets": {}
+            },
+            "Urban Lobster Shack": {
+                "NY,Various, check Twitter": {}
+            },
+            "Luke's Lobster Nauti Mobile": {
+                "NY,Midtown & Flatiron": {}
+            },
+            "Milk Truck": {
+                "NY,South Street SeaportMidtown: 53rd Street & Park AvenueFinancial District: Wall & William Streets": {}
+            },
+            "Van Leeuwen Ice Cream Truck": {
+                "8th StreetSoHo: Prince & Greene StreetsNY,": {}
+            },
+            "Big Gay Ice Cream Truck": {
+                "NY,Various, check Twitter": {}
+            },
+            "Taim Mobile": {
+                "NY,Brookfield Place: North End Avenue & Vesey StreetFlatiron: 20th Street & 5th AvenueGrand Army Plaza: Prospect Parc": {}
+            },
+            "Papya King Truck": {
+                "Check @papayakingtruck on Twitter for location": {}
+            },
+            "Souvlaki GR Truck": {
+                "NY,Various, check Twitter": {}
+            },
+            "GO Burger Truck": {
+                "NY,Upper East Side: 1448 2nd AvenueVarious Other Locations: Check Twitter": {}
+            },
+            "Kimchi Taco Truck": {
+                "NY,Navy Yard: Clinton & Flushing AvenuesDUMBO: Jay & Water StreetsMidtown: 55th Street & 6th Avenue52nd Street & 6th AvenueSoHo: Charlton & Varick Streets": {}
+            },
+            "Calexico Food Cart": {
+                "NY,SoHo: Prince & Wooster StreetsFlatiron: 1030 BroadwayBrooklyn Bridge Park: Pier 1": {}
+            },
+            "The Morris Truck": {
+                "NY,Various, check Twitter": {}
+            },
+            "Bian Dang": {
+                "NY,53rd Street & Park Avenue": {}
+            },
+            "Korilla BBQ": {
+                "NY,Flatiron: 22nd Street & 6th AvenueSoHo: Varick & Vandam StreetsFinancial District: Front Street & Governor's LaneDUMBO: Jay & Water StreetsMidtown: 47th Street & Park Avenue": {}
+            },
+            "Comme Ci Comme \u00c7a": {
+                "NY,Financial District: Old Slip & Water StreetMidway: 36th Street & BroadwayMidtown East: 52nd Street & Park Avenue": {}
+            },
+            "Wafels & Dinges Truck": {
+                "NY,Various, check Twitter": {}
+            }
+        },
+        "French": {
+            "per se": {
+                "10 Columbus Circle, 4th FloorNew York, NY, 10019": {}
+            },
+            "Le Bernardin": {
+                "787 7th AveNew York, NY, 10019+6018": {}
+            },
+            "Restaurant Daniel": {
+                "60 E 65th StNew York, NY, 10021+7056": {}
+            },
+            "Le Coucou": {
+                "138 Lafayette StreetNY, 10013": {}
+            },
+            "Gabriel Kreuther": {
+                "41 W42nd Street": {}
+            },
+            "Cafe Carlyle": {
+                "35 E 76th StNew York, NY, 10021": {}
+            },
+            "Jean Georges": {
+                "1 Central Park WestNew York, NY, 10026+4302": {}
+            },
+            "La Bergamote \u2014 Midtown": {
+                "515 West 52 StreetNew York, NY, 10019": {}
+            },
+            "Cafe Luxembourg": {
+                "200 West 70th StreetNew York, NY, 10023+4323": {}
+            },
+            "Lafayette": {
+                "380 Lafayette StreetNew York, NY, 10003": {}
+            },
+            "Degustation": {
+                "239 East 5th StreetNew York, NY, 10003": {}
+            },
+            "Odeon": {
+                "145 West BroadwayNew York, NY, 10013+3373": {}
+            },
+            "Dirty French": {
+                "180 Ludlow StreetNY, 10002": {}
+            },
+            "Palm Court at the Plaza": {
+                "Fifth AvenueNew York, NY, 10021": {}
+            },
+            "Les Enfants de Boh\u00e9me": {
+                "177 Henry StreetNY, 10002": {}
+            },
+            "The Modern": {
+                "9 W 53rd StNew York, NY, 10019+5401": {}
+            },
+            "Fada Bistro": {
+                "530 Driggs AveBrooklyn, NY, 11211+2972": {}
+            },
+            "La Grenouille": {
+                "3 E 52nd StNew York, NY, 10022+5301": {}
+            },
+            "Balthazar": {
+                "80 Spring StNew York, NY, 10012+3907": {}
+            },
+            "Raoul's": {
+                "180 Prince StNew York, NY, 10012+2924": {}
+            }
+        },
+        "Fresh Market Cuisine": {
+            "NYC Greenmarkets & Farmers Markets": {
+                "fresh market cuisine restaurantsNew York, NY,": {}
+            },
+            "Bouchon Bakery - Time Warner Center": {
+                "10 Columbus Circle (third floor)New York, NY, 10019": {}
+            },
+            "Chez Lucienne": {
+                "308 Lenox Ave": {}
+            },
+            "Tartinery Nolita": {
+                "209 Mulberry StNew York, NY, 10012+4565": {}
+            },
+            "Bouchon Bakery - Rockefeller Plaza": {
+                "One Rockefeller PlazaNew York, NY, 10020": {}
+            },
+            "Fulton Stall Market": {
+                "New York, NY, 10038South Street": {}
+            }
+        },
+        "Game": {
+            "Il Tesoro": {
+                "1578 1st AveNew York, NY, 10028": {}
+            }
+        },
+        "German": {
+            "Radegast Hall & Biergarten": {
+                "113 N 3rd StreetWilliamsburg, Brooklyn, NY, 11211": {}
+            },
+            "Cafe d'Alsace": {
+                "1695 Second Ave": {}
+            },
+            "Loreley Biergarten": {
+                "7 Rivington StNew York, NY, 10002+1226": {}
+            },
+            "Hallo Berlin": {
+                "626 10th AveNew York, NY, 10036+3036": {}
+            },
+            "Killmeyer's Old Bavaria Inn": {
+                "4254 Arthur Kill RdStaten Island, NY, 10309+1130": {}
+            },
+            "Zum Stammtisch": {
+                "6946 Myrtle AveGlendale, NY, 11385+7263": {}
+            },
+            "Heidelberg": {
+                "1648 2nd AveNew York, NY, 10028+3111": {}
+            },
+            "Lederhosen": {
+                "39 Grove StreetNew York, NY, 10014+5316": {}
+            },
+            "Schnitzel Haus": {
+                "7319 5th AveBrooklyn, NY, 11209+2603": {}
+            },
+            "Cafe Select": {
+                "212 Lafayette St": {}
+            },
+            "Black Forest Brooklyn": {
+                "733 Fulton StreetBrooklyn, NY, 11217": {}
+            },
+            "Rolf's": {
+                "281 3rd AveNew York, NY, 10010+5501": {}
+            },
+            "Buschenschank": {
+                "320 Court StBrooklyn, NY, 11231": {}
+            },
+            "The Standard Biergarten": {
+                "848 Washington StNew York, NY, 10014": {}
+            },
+            "Schnitzel & Things Truck": {
+                "NY,Financial District: Broad & Pearl StreetsWTC: North End Avenue & Vessey StreetMidtown: 55th Street & Broadway52nd Street & 6th Avenue51st Street & Park Avenue49th Street & 6th Aven": {}
+            },
+            "Manor Oktoberfest": {
+                "73-11 Yellowstone BlvdForest Hills, NY, 11375+4136": {}
+            },
+            "Bierhaus": {
+                "712 3rd AveNew York, NY, 10017+4012": {}
+            },
+            "Studio Kraut": {
+                "160 8th AveNew York, NY, 10011": {}
+            },
+            "Bier International": {
+                "2099 Frederick Douglass BlvdNew York, NY, 10026+2753": {}
+            },
+            "Korzo": {
+                "667 5th AveBrooklyn, NY, 11215+6306": {}
+            }
+        },
+        "Global": {
+            "Chef's Table at Brooklyn Fare": {
+                "200 Schermerhorn StreetBrooklyn, NY, 11201+5816": {}
+            },
+            "Grindhaus": {
+                "275 Van Brunt StreetBrooklyn, NY, 11231": {}
+            },
+            "Sweetwater": {
+                "105 N 6th StreetBrooklyn, NY, 11211+3001": {}
+            },
+            "Chalk Point Kitchen": {
+                "525 Broome StreetNew York, NY, 10013": {}
+            },
+            "Parker & Quinn": {
+                "64 West 39th StreetNew York, NY, 10018": {}
+            },
+            "Estela": {
+                "47 East Houston StreetNew York, NY, 10012": {}
+            },
+            "Braai": {
+                "329 W 51st StNew York, NY, 10018": {}
+            },
+            "Palo Santo": {
+                "652 Union StreetPark Slope, NY, 11215": {}
+            },
+            "Vida": {
+                "381 Van Duzer StreetStaten Island, NY, 10304+2754": {}
+            },
+            "The Dutch": {
+                "131 Sullivan StreetNew York, NY, 10012+3043": {}
+            },
+            "James Beard House": {
+                "167 W 12th StNew York, NY, 10027+3723": {}
+            },
+            "Maggie Brown": {
+                "455 Myrtle AveBrooklyn, NY, 11205+2413": {}
+            },
+            "Tatiana": {
+                "3152 Brighton 6th StBrooklyn, NY, 11235+7151": {}
+            },
+            "Garden Court Cafe": {
+                "725 Park AveNew York, NY, 10021": {}
+            },
+            "Lighthouse": {
+                "145 Borinquen PlaceBrooklyn, NY, 11211": {}
+            },
+            "Colors": {
+                "417 Lafayette StreetNew York, NY,": {}
+            },
+            "The Brindle Room": {
+                "277 East 10th StreetNew York, NY, 10009": {}
+            },
+            "Ambassador Grill": {
+                "1 United Nations PlazaNew York, NY, 10009+7644": {}
+            },
+            "Lovely Day": {
+                "196 Elizabeth StreetNew York, NY, 10012+4214": {}
+            },
+            "Nook": {
+                "746 9th AveNew York, NY, 10019+6626": {}
+            }
+        },
+        "Gourmet": {
+            "Dean & Deluca": {
+                "560 BroadwayNew York, NY, 10012+3938": {}
+            },
+            "Haymaker Bar and Kitchen": {
+                "252 West 29th StreetNY, 10001": {}
+            },
+            "Just Delicious": {
+                "80 Varick StNew York, NY, 10013": {}
+            },
+            "The Pullman Kitchen": {
+                "959 2nd AveNew York, NY, 10022": {}
+            }
+        },
+        "Greek": {
+            "Thalassa": {
+                "179 Franklin StreetNew York, NY, 10013": {}
+            },
+            "El Greco": {
+                "1821 Emmons AveBrooklyn, NY, 11235+2715": {}
+            },
+            "Yiasou": {
+                "2003 Emmons AveBrooklyn, NY, 11235+2707": {}
+            },
+            "The Greek Ouzerie & Taverna": {
+                "4763941": {}
+            },
+            "Cavo": {
+                "42-18 31st AveAstoria, NY, 11103+2602": {}
+            },
+            "Loi Estiatorio": {
+                "132 W 58th StNew York, NY, 10019+2144": {}
+            },
+            "Molyvos": {
+                "871 7th AveNew York, NY, 10019+3923": {}
+            },
+            "Uncle Nick's - Hell's Kitchen": {
+                "747 9th AveNew York, NY, 10019+6617": {}
+            },
+            "Elia": {
+                "8611 3rd AveBrooklyn, NY, 11209+5151": {}
+            },
+            "Ovelia": {
+                "34-01 30th AveAstoria, NY, 11103": {}
+            },
+            "Kellogg's Diner": {
+                "518 Metropolitan AveWilliamsburg, NY, 11211": {}
+            },
+            "Ammos Estiatorio": {
+                "52 Vanderbilt AveNew York, NY, 10017+3808": {}
+            },
+            "Periyali": {
+                "35 West 20th StreetNew York, NY, 10011+3709": {}
+            },
+            "Agnanti Meze": {
+                "1906 Ditmars BlvdAstoria, NY, 11105+3658": {}
+            },
+            "Snack Taverna": {
+                "63 Bedford StreetNew York, NY, 10014+4011": {}
+            },
+            "Ethos Taverna": {
+                "495 3rd AveNew York, NY, 10016+4856": {}
+            },
+            "Kellari Taverna": {
+                "19 W44th Street": {}
+            },
+            "The Greek Kitchen": {
+                "889 10th AveNew York, NY, 10019+1030": {}
+            },
+            "Avra Estiatorio": {
+                "141 E 48th StNew York, NY, 10017+1223": {}
+            },
+            "Victory Garden Cafe": {
+                "21-69 Steinway StreetAstoria, NY, 11105": {}
+            }
+        },
+        "Haitian": {
+            "12th Street Bar & Grill": {
+                "1123 8th AveBrooklyn, NY, 11215+4313": {}
+            },
+            "Krik Krak": {
+                "844 Amsterdam AveNew York, NY, 10025+5127": {}
+            },
+            "Atomic Wings": {
+                "2090 Frederick Dglss BlvdNew York, NY, 10026+2788": {}
+            },
+            "La Caye": {
+                "35 Lafayette AveBrooklyn, NY, 11217": {}
+            }
+        },
+        "Hamburger & Hot Dog Stands": {
+            "Better Burger": {
+                "265 West 19th StreetNew York, NY, 10011+4022": {}
+            },
+            "Shorty's - Murray Hill": {
+                "66 Madison AveNew York, NY, 10016+8711": {}
+            },
+            "Shorty's - Downtown": {
+                "New York, NY, 1000462 Pearl St": {}
+            },
+            "Shorty's": {
+                "576 9th AveNew York, NY, 10036": {}
+            },
+            "The Jones": {
+                "788 9th AveNew York, NY, 10019+5639": {}
+            },
+            "Island Burgers & Shakes": {
+                "766 9th AveNew York, NY, 10019+6323": {}
+            },
+            "Charlys": {
+                "110 Trinity PlNew York, NY, 10006+1031": {}
+            },
+            "Burger Burger": {
+                "77 Pearl StNew York, NY, 10004+2613": {}
+            },
+            "Ottomanelli New York Grill": {
+                "1424 Lexington AveNew York, NY, 10128+1609": {}
+            },
+            "Kool Bloo": {
+                "178 Church StreetNew York, NY, 10013+3819": {}
+            },
+            "Viand": {
+                "673 Madison AveNew York, NY, 10065": {}
+            }
+        },
+        "Hawaiian": {
+            "Noreetuh": {
+                "128 First AvenueEast Village, NY, 10009": {}
+            },
+            "Roy's New York": {
+                "130 Washington StNew York, NY, 10006+1532": {}
+            },
+            "L and L Hawaiian Barbecue": {
+                "64 Fulton StNew York, NY, 10038": {}
+            },
+            "Wisefish Pok\u00e9": {
+                "263 West 19th StreetNY, 10011": {}
+            },
+            "Onomea": {
+                "84 Havemeyer StreetBrooklyn, NY, 11211": {}
+            }
+        },
+        "Health Food": {
+            "The Green Table": {
+                "75 Ninth Avenue / Chelsea MarketNew York, NY, 10011+7004": {}
+            },
+            "Eva's": {
+                "11 W 8th StNew York, NY, 10011+9034": {}
+            },
+            "Mint": {
+                "535 Kings HwyBrooklyn, NY, 11223+1919": {}
+            },
+            "Bittersweet": {
+                "180 Dekalb AveBrooklyn, NY, 11205": {}
+            },
+            "Better Burger": {
+                "265 West 19th StreetNew York, NY, 10011+4022": {}
+            },
+            "Ella Cafe": {
+                "177 Bedford AveBrooklyn, NY, 11211": {}
+            },
+            "Nanoosh - Upper East Side": {
+                "1273 First AveUpper East Side, NY, 10021": {}
+            },
+            "Caravan Of Dreams": {
+                "405 E 6th StNew York, NY, 10009+6303": {}
+            },
+            "Sweetgreen \u2014 Midtown": {
+                "1164 BroadwayNew York, NY, 10001": {}
+            },
+            "Sweetgreen \u2014 Tribeca": {
+                "413 Greenwich StreetNew York, NY, 10013": {}
+            },
+            "Gingersnap's Organic": {
+                "130 East 7th StreetNew York, NY, 10009+6164": {}
+            },
+            "Organic Grill": {
+                "123 1st AveNew York, NY, 10003+2904": {}
+            },
+            "Great American Health Bar": {
+                "35 W 57th StNew York, NY, 10019+3405": {}
+            },
+            "The Vegetable Garden": {
+                "48 E 41st St Mad AveNew York, NY, 10017": {}
+            },
+            "Red Bamboo": {
+                "140 W 4th StNew York, NY, 10012": {}
+            },
+            "Juice Press": {
+                "70 1st StNew York, NY, 10003": {}
+            },
+            "Village Natural": {
+                "46 Greenwich AveNew York, NY, 10011+8307": {}
+            },
+            "Quantum Leap": {
+                "226 Thompson StreetNew York, NY, 10012+4838": {}
+            },
+            "Cafe Delectica": {
+                "121 Madison AveNew York, NY, 10016": {}
+            },
+            "Juice Bar-Rio": {
+                "308 East 116th StreetNew York, NY, 10029+1501": {}
+            }
+        },
+        "Home Cooking": {
+            "Tea & Sympathy": {
+                "108 Greenwich AveNew York, NY, 10011+7741": {}
+            }
+        },
+        "Hot Dog": {
+            "Shake Shack": {
+                "Madison Square ParkNew York, NY, 10010": {}
+            }
+        },
+        "Hungarian": {
+            "Cafe Dada": {
+                "57 7th AveBrooklyn, NY, 11217": {}
+            }
+        },
+        "Ice Cream & Frozen Yogurt": {
+            "Laboratorio Del Gelato": {
+                "188 Ludlow StNew York, NY, 10002+3112": {}
+            },
+            "Ice & Vice": {
+                "NY, 10002221 East Broadway": {}
+            },
+            "Cones": {
+                "272 Bleecker StNew York, NY, 10014+4104": {}
+            },
+            "Jacques Torres Chocolate \u2014 DUMBO": {
+                "66 Water StreetBrooklyn, NY, 11201+1048": {}
+            },
+            "Lemon Ice King of Corona": {
+                "5202 108th StCorona-A, NY, 11368+3303": {}
+            },
+            "Chinatown Ice Cream Factory": {
+                "65 Bayard StNew York, NY, 10013+4931": {}
+            },
+            "Jacques Torres Chocolate Ice Cream Shop": {
+                "62 Water StreetNY, 11201+1048": {}
+            },
+            "Jacques Torres Chocolate \u2014 Midtown East": {
+                "110 East 57th StreetNY, 10022": {}
+            },
+            "Jacques Torres Chocolate \u2014 Rockefeller Center": {
+                "30 Rockefeller PlazaNY, 10112": {}
+            },
+            "Jacques Torres Chocolate \u2014 Upper West Side": {
+                "285 Amsterdam AvenueNY, 10023": {}
+            },
+            "Ample Hills \u2014 Gotham West Market": {
+                "NY, 10036600 11th Avenue": {}
+            },
+            "Eddies": {
+                "105-29 Metropolitan AveNY, 11375": {}
+            },
+            "Ample Hills Creamery \u2014 Gowanus": {
+                "305 Nevins StreetBrooklyn, NY, 11215": {}
+            },
+            "Ample Hills Creamery": {
+                "623 Vanderbilt AveBrooklyn, NY, 11238": {}
+            },
+            "Van Leeuwen \u2014 Greenpoint": {
+                "620 Manhattan AveBrooklyn, NY, 11222": {}
+            },
+            "Cafe Triskelll": {
+                "33-04 36th AveAstoria, NY, 11106": {}
+            },
+            "Golosi": {
+                "125 Park AveNew York, NY, 10017": {}
+            },
+            "L & B Spumoni Gardens": {
+                "2725 86th StreetBrooklyn, NY, 11223": {}
+            },
+            "Chocolate Room": {
+                "86 5th AveBrooklyn, NY, 11217+2082": {}
+            },
+            "Ample Hills Creamery \u2014 DUMBO": {
+                "BROOKLYN, NY, 11201+13231 Water Street": {}
+            }
+        },
+        "Indian/Pakistani": {
+            "Dawat Haute Indian Cuisine": {
+                "210 E 58th StNew York, NY, 10022+2030": {}
+            },
+            "Cafe at RMA": {
+                "150 West 17th StreetNew York, NY, 10011": {}
+            },
+            "Utsav Festive India": {
+                "1185 Avenue of the AmericasNew York, NY, 10036+2601": {}
+            },
+            "Jackson Diner": {
+                "3747 74th StJackson Heights, NY, 11372+6337": {}
+            },
+            "Chaiwali Harlem": {
+                "274 Lenox Ave10027": {}
+            },
+            "Awadh": {
+                "2588 BroadwayNY, 10025": {}
+            },
+            "aRoqa": {
+                "206 9th AveNY, 10011": {}
+            },
+            "Indian Taj \u2014 Greenwich Village": {
+                "181 Bleecker StNew York, NY, 10012+1406": {}
+            },
+            "Vatan": {
+                "409 3rd AveNew York, NY, 10016+8103": {}
+            },
+            "Taj II": {
+                "48 West 21st StreetNew York, NY, 10010+6907": {}
+            },
+            "Adda Indian Canteen": {
+                "NY, 1110131-31 Thomson Avenue": {}
+            },
+            "Babu Ji": {
+                "175 Avenue BNY, 10009": {}
+            },
+            "5-Star Banquet & Restaurant": {
+                "13-15 43rd AveLong Island City, NY, 11101": {}
+            },
+            "Yuva": {
+                "230 East 58th StreetNew York, NY, 10022+2031": {}
+            },
+            "Darbar": {
+                "152 E 46th StNew York, NY, 10017+2612": {}
+            },
+            "Gastro Bar": {
+                "345 W 35th StNew York, NY, 10001+1706": {}
+            },
+            "The Kati Roll Company": {
+                "99 MacDougal StreetNew York, NY, 10012+5031": {}
+            },
+            "Paowalla": {
+                "195 Spring StreetNY, 10012": {}
+            },
+            "Savoury": {
+                "489 Columbus AveNY, 10024": {}
+            },
+            "Benares \u2014 Midtown": {
+                "240 W 56th StNew York, NY, 10019": {}
+            }
+        },
+        "Indonesian": {
+            "Bali Nusa Indah": {
+                "651 9th AveNew York, NY, 10036+3600": {}
+            }
+        },
+        "International": {
+            "Delegates Dining Room": {
+                "1 United Nations PlazaNew York, NY, 10017": {}
+            },
+            "Opia": {
+                "130 E 57th StNew York, NY, 10022+2703": {}
+            },
+            "Fig and Olive \u2013 Meatpacking District": {
+                "420 West 13 StreetNew York, NY, 10014": {}
+            },
+            "Asiate": {
+                "80 Columbus CircleNew York, NY, 10023+5800": {}
+            },
+            "Alor Cafe": {
+                "2110 Richmond RdStaten Island, NY, 10306+2572": {}
+            },
+            "Bridge Cafe": {
+                "279 Water StNew York, NY, 10038+1702": {}
+            },
+            "The Mark": {
+                "25 E 77th StNew York, NY, 10021+1711": {}
+            },
+            "Estela": {
+                "47 East Houston StreetNew York, NY, 10012": {}
+            },
+            "Hamilton's": {
+                "2826 Fort Hamilton ParkwayBrooklyn, NY, 11218": {}
+            },
+            "Fig and Olive \u2013 Fifth Avenue": {
+                "10 East 52nd StreetNew York, NY, 10022": {}
+            },
+            "Braai": {
+                "329 W 51st StNew York, NY, 10018": {}
+            },
+            "TY - Four Seasons": {
+                "57 East 57th St": {}
+            },
+            "Lobby Lounge at Mandarin Oriental": {
+                "80 Columbus CircleManhattan, NY,": {}
+            },
+            "King Cole Bar & Salon at the St. Regis": {
+                "2 E 55th StreetNew York, NY, 10022": {}
+            },
+            "Vida": {
+                "381 Van Duzer StreetStaten Island, NY, 10304+2754": {}
+            },
+            "Employees Only": {
+                "510 Hudson StreetNew York, NY, 10014": {}
+            },
+            "Sample": {
+                "152 Smith StreetBrooklyn, NY, 11201+6300": {}
+            },
+            "James Beard House": {
+                "167 W 12th StNew York, NY, 10027+3723": {}
+            },
+            "Olma Caviar Boutique & Lounge": {
+                "420 Amsterdam AveNY, 10024": {}
+            },
+            "Olma Caviar Boutique & Bar": {
+                "1 West 59th StreetNY, 10019": {}
+            }
+        },
+        "Irish": {
+            "Donohue's Steakhouse": {
+                "845 Lexington AveNew York, NY, 10021+6611": {}
+            },
+            "Wilfie & Nell": {
+                "228 W 4th StreetNew York, NY, 10014": {}
+            },
+            "Black Sheep": {
+                "583 3rd AveNew York, NY, 10016+2711": {}
+            },
+            "Social": {
+                "795 8th AveNew York, NY, 10019+7401": {}
+            },
+            "Freemans": {
+                "Freeman Alley (off Rivington St)": {}
+            },
+            "Dorrian's Red Hand": {
+                "300 E 84th StNew York, NY, 10028+4414": {}
+            },
+            "Lillie's": {
+                "13 East 17th StreetNew York, NY, 10003": {}
+            },
+            "Irish Exit": {
+                "978 2nd AveNew York, NY, 10022+6355": {}
+            },
+            "The Press Box": {
+                "932 2nd AveNew York, NY, 10022+7802": {}
+            },
+            "Mercantile Grill": {
+                "126 Pearl StNew York, NY, 10005+2809": {}
+            },
+            "The Irish American": {
+                "17 John StNew York, NY, 10038": {}
+            },
+            "P.J. Moran's": {
+                "3 E 48th StNew York, NY, 10017+1027": {}
+            },
+            "Maggie's Place": {
+                "21 E 47th StNew York, NY, 10017+1901": {}
+            },
+            "Pig n' Whistle \u2013 36th Street": {
+                "202 W 36th StNew York, NY, 10018+6414": {}
+            },
+            "Connolly's Pub - Midtown": {
+                "44 W 54th StNew York, NY, 10019+5405": {}
+            },
+            "Ryan Maguire's Ale House": {
+                "28 Cliff StNew York, NY, 10038+2852": {}
+            },
+            "Pig n' Whistle \u2013 Times Square": {
+                "144 West 46th StreetNew York, NY, 10036": {}
+            },
+            "Mary O's": {
+                "32 Avenue ANew York, NY, 10009+7654": {}
+            },
+            "Shades of Green": {
+                "125 E 15th StNew York, NY, 10003+3545": {}
+            },
+            "Foley's": {
+                "18 W 33rd StNew York, NY, 10001+3300": {}
+            }
+        },
+        "Israeli": {
+            "Spiegel": {
+                "26 1st AveNew York, NY, 10003": {}
+            },
+            "Hummus Place": {
+                "Upper West Side, NY, 10023(212) 799-3335": {}
+            },
+            "Hoomoos Asli": {
+                "100 Kenmare StNew York, NY, 10012+4011": {}
+            },
+            "Miriam": {
+                "79 5th AveBrooklyn, NY, 11217+3201": {}
+            },
+            "Chickpea": {
+                "110 William StreetNew York, NY, 10038": {}
+            },
+            "Azuri Cafe": {
+                "465 W 51st StNew York, NY, 10019+6345": {}
+            },
+            "Local 92": {
+                "92 2nd AveNew York, NY, 10003+8313": {}
+            },
+            "Taim Mobile": {
+                "NY,Brookfield Place: North End Avenue & Vesey StreetFlatiron: 20th Street & 5th AvenueGrand Army Plaza: Prospect Parc": {}
+            },
+            "Glasserie": {
+                "95 Commercial StreetBrooklyn, NY, 11222": {}
+            },
+            "Effey's Israeli Cafe \u2014 Upper Eastside": {
+                "1638 3rd AvenueNY, 10128": {}
+            },
+            "Bar Bolonat": {
+                "611 Hudson StreetNew York, NY, 10014": {}
+            }
+        },
+        "Italian": {
+            "Marea": {
+                "240 Central Park SouthNew York, NY, 10019": {}
+            },
+            "Scalini Fedeli": {
+                "165 Duane StNew York, NY, 10013+3332": {}
+            },
+            "Carbone": {
+                "181 Thompson StreetNY, 10012": {}
+            },
+            "Girello": {
+                "16 N Moore StNew York, NY, 10013": {}
+            },
+            "Giuseppina's": {
+                "691 6th AveBrooklyn, NY, 11215+6302": {}
+            },
+            "Lucali": {
+                "575 Henry StreetBrooklyn, NY, 11231+2707": {}
+            },
+            "La Sirena": {
+                "88 9th AvenueNY, 10011": {}
+            },
+            "Anella": {
+                "222 Franklin St": {}
+            },
+            "Il Mulino \u2014 Downtown": {
+                "86 West 3rd StreetNew York, NY, 10012+1008": {}
+            },
+            "Il Buco": {
+                "47 Bond StreetNew York, NY, 10012+2450": {}
+            },
+            "Barbalu": {
+                "225-227 Front StreetNew York, NY, 10038": {}
+            },
+            "Il Mulino \u2014 Uptown": {
+                "37 East 60th StreetNew York, NY, 10022": {}
+            },
+            "Marta": {
+                "6513800": {}
+            },
+            "Manetta's": {
+                "10-76 Jackson AveLong Island City, NY, 11101+5720": {}
+            },
+            "Sotto Voce": {
+                "225 7th AveBrooklyn, NY, 11215+3005": {}
+            },
+            "Felidia Ristorante": {
+                "243 E 58th StNew York, NY, 10022+1201": {}
+            },
+            "Bellini": {
+                "483 Columbus AveNew York, NY, 10024": {}
+            },
+            "Carmine's Uptown": {
+                "2450 BroadwayNew York, NY, 10024+1103": {}
+            },
+            "Babbo": {
+                "110 Waverly PlNew York, NY, 10011+9109": {}
+            },
+            "Kindred": {
+                "NY, 10003342 East 6th Street": {}
+            }
+        },
+        "Jamaican": {
+            "Miss Lily's \u2014 7A": {
+                "109 Avenue ANY, 10009": {}
+            },
+            "Geisha Table": {
+                "2178 BroadwayNew York, NY, 10024": {}
+            }
+        },
+        "Japanese": {
+            "Sushi Seki - Chelsea": {
+                "208 West 23rd St": {}
+            },
+            "O Ya": {
+                "120 East 28th StreetNY, 10016": {}
+            },
+            "Satsko": {
+                "202 East 7th StreetNew York, NY, 10002": {}
+            },
+            "Natsumi": {
+                "226 West 50th StreetMidtown, NY, 10019": {}
+            },
+            "EN Japanese Brasserie": {
+                "435 Hudson St": {}
+            },
+            "Sakagura": {
+                "211 E 43rd St PhNew York, NY, 10017+4712": {}
+            },
+            "212 Hisae's": {
+                "212 E 9th StNew York, NY, 10003+7503": {}
+            },
+            "Koyo": {
+                "3712 31st AvenueNY, 11103": {}
+            },
+            "Kappo Masa": {
+                "976 Madison AvenueNY, 10075": {}
+            },
+            "Sushi Seki - Upper East Side": {
+                "1143 1st AveNew York, NY, 10021-7700": {}
+            },
+            "Takahachi - Tribeca": {
+                "145 Duane StNew York, NY, 10013+3851": {}
+            },
+            "Masa": {
+                "10 Columbus CircleNew York, NY, 10019": {}
+            },
+            "Sushi Yasuda": {
+                "204 E 43rd StNew York, NY, 10017+4713": {}
+            },
+            "Blue Ribbon Sushi": {
+                "119 Sullivan StreetNew York, NY, 10012+3680": {}
+            },
+            "Sugiyama": {
+                "251 W 55th StNew York, NY, 10019+5202": {}
+            },
+            "SushiAnn": {
+                "38 East 51st StreetNY, 10022": {}
+            },
+            "Takumi Taco": {
+                "NY, 1001175 9th Avenue": {}
+            },
+            "Momofuku Ko": {
+                "New York, NY, 100038 Extra Place": {}
+            },
+            "Kyo Ya": {
+                "94 E 7th StNew York, NY, 10009+6117": {}
+            },
+            "Sushi Samba 7": {
+                "87 7th Ave SNew York, NY, 10014+3415": {}
+            }
+        },
+        "Jazz Club": {
+            "Minton's": {
+                "206 West 118th StreetNY, 10026": {}
+            },
+            "Ginny's Supper Club": {
+                "310 Lenox Ave, BasementNew York, NY, 10027": {}
+            },
+            "The Ellington": {
+                "936 Amsterdam AveNew York, NY, 10025": {}
+            },
+            "Classon Social Club": {
+                "807 Classon AveBrooklyn, NY, 11238": {}
+            }
+        },
+        "Juice & Beverage": {
+            "Big Gay Ice Cream Shop \u2014 East Village": {
+                "New York, NY, 10009125 East 7th Street": {}
+            },
+            "Eva's": {
+                "11 W 8th StNew York, NY, 10011+9034": {}
+            },
+            "Butcher's Daughter": {
+                "19 Kenmare StreetNew York, NY, 10012": {}
+            },
+            "Juice Press": {
+                "70 1st StNew York, NY, 10003": {}
+            },
+            "Gray's Papaya": {
+                "2090 BroadwayNew York, NY, 10023+2802": {}
+            },
+            "Papaya King": {
+                "179 East 86th StreetNew York, NY, 10028+2106": {}
+            },
+            "Bliss Cafe": {
+                "191 Bedford AveBrooklyn, NY, 11211+2948": {}
+            },
+            "Juice Bar-Rio": {
+                "308 East 116th StreetNew York, NY, 10029+1501": {}
+            },
+            "Nectar": {
+                "198 Court StBrooklyn, NY, 11201+6469": {}
+            },
+            "Terri": {
+                "64 W 23rd StNew York, NY, 10010": {}
+            }
+        },
+        "Korean": {
+            "Atomix": {
+                "30th St": {}
+            },
+            "Momofuku Ssam Bar": {
+                "207 Second Ave": {}
+            },
+            "Insa Korean": {
+                "328 Douglass StreetGowanus, Brooklyn, NY, 11217": {}
+            },
+            "Momofuku Ko": {
+                "New York, NY, 100038 Extra Place": {}
+            },
+            "Madangsui": {
+                "35 W 35th St Fl 8New York, NY, 10001+2205": {}
+            },
+            "Friendship BBQ": {
+                "136-76 39th AveNY, 11345": {}
+            },
+            "Dokebi": {
+                "199 Grand StBrooklyn, NY, 11211": {}
+            },
+            "Momofuku Noodle Bar": {
+                "171 1st AveNew York, NY, 10003+3724": {}
+            },
+            "Kum Gang San": {
+                "13828 Northern BlvdFlushing, NY, 11354+3406": {}
+            },
+            "HanGawi": {
+                "12 E 32nd StNew York, NY, 10016+5419": {}
+            },
+            "Haenyeo": {
+                "239 5th AveNY, 11215": {}
+            },
+            "Kang Suh": {
+                "1250 BroadwayNew York, NY, 10001+3716": {}
+            },
+            "Kochi": {
+                "652 10th AveNY, 10036": {}
+            },
+            "The Good Fork": {
+                "391 Van Brunt StRed Hook, NY, 11231": {}
+            },
+            "Mrs. Kim's": {
+                "160 Franklin StreetBrooklyn, NY, 11222": {}
+            },
+            "Kunjip": {
+                "9 West 32nd StreetNew York, NY, 10001+3810": {}
+            },
+            "Bann": {
+                "350 W 50th StNew York, NY, 10019+6664": {}
+            },
+            "Kawi": {
+                "20 Hudson Yards, 5th FloorNY, 10001": {}
+            },
+            "Nowon": {
+                "507 East 6th StreetNY, 10009": {}
+            },
+            "Cote": {
+                "16 West 22nd StreetNY, 10010": {}
+            }
+        },
+        "Kosher": {
+            "Yonah Schimmel Knishery": {
+                "137 E Houston StNew York, NY, 10002+1027": {}
+            },
+            "Spiegel": {
+                "26 1st AveNew York, NY, 10003": {}
+            },
+            "Taim \u2014 Little Italy": {
+                "45 Spring StreetNew York, NY, 10012": {}
+            },
+            "Salute Kosher": {
+                "63-61 108th StreetForest Hills, NY, 11375": {}
+            },
+            "Taim": {
+                "222 Waverly PlaceNew York, NY, 10014": {}
+            },
+            "Va Bene": {
+                "1589 2nd AveNew York, NY, 10028+4132": {}
+            },
+            "Prime Grill": {
+                "25 W 56th StNew York, NY, 10017+1114": {}
+            },
+            "Glatt a la Carte": {
+                "5502 18th AveBROOKLYN, NY, 11204+1929": {}
+            },
+            "Gottlieb": {
+                "352 Roebling StBrooklyn, NY, 11211+6240": {}
+            },
+            "Caravan Of Dreams": {
+                "405 E 6th StNew York, NY, 10009+6303": {}
+            },
+            "Mike's Bistro": {
+                "228 W 72nd StNew York, NY, 10023": {}
+            },
+            "Bordeaux": {
+                "1922 Coney Island AveBrooklyn, NY, 11230": {}
+            },
+            "Cafe K": {
+                "8 E 48th StNew York, NY, 10017+1011": {}
+            },
+            "Talia's Steakhouse & Bar": {
+                "668 Amsterdam AveNew York, NY, 10025+7426": {}
+            },
+            "Buddha Bodai": {
+                "5 Mott StreetNY, 10013": {}
+            },
+            "Great American Health Bar": {
+                "35 W 57th StNew York, NY, 10019+3405": {}
+            },
+            "Cafe Classico": {
+                "35 W 57th StNew York, NY, 10019+3405": {}
+            },
+            "Mr. Broadway": {
+                "1372 BroadwayNew York, NY, 10018+6107": {}
+            },
+            "Kosher Delight": {
+                "1365 BroadwayNew York, NY, 10018+7101": {}
+            },
+            "Abigael's": {
+                "1407 BroadwayNew York, NY, 10018+5100": {}
+            }
+        },
+        "Late Night": {
+            "William Hallet": {
+                "36-10 30th AveAstoria, NY, 11103+4360": {}
+            }
+        },
+        "Lebanese": {
+            "Al Bustan": {
+                "319 East 53rd StreetNew York, NY, 10022": {}
+            },
+            "Au Za'atar": {
+                "188 Avenue ANew York, NY, 10009": {}
+            },
+            "Balade": {
+                "208 1st AveNew York, NY, 10009+3705": {}
+            },
+            "Le Sajj": {
+                "8221 5th AveBrooklyn, NY, 11209+4508": {}
+            },
+            "Bustan": {
+                "487 Amsterdam AveNY, 10024": {}
+            },
+            "Naya Mezze & Grill - 43rd Street": {
+                "New York, NY, 10022686 3rd Ave": {}
+            },
+            "Naya Mezze & Grill - 56th Street": {
+                "1057 Second AveNew York, NY, 10022": {}
+            },
+            "ilili": {
+                "236 Fifth AvenueNew York, NY, 10001": {}
+            },
+            "Byblos": {
+                "80 Madison AveNew York, NY, 10016+7423": {}
+            },
+            "Al Mayass": {
+                "24 E 21st StNew York, NY, 10010": {}
+            }
+        },
+        "Lounge": {
+            "Crimson & Rye": {
+                "198 East 54th StreetNY, 10022": {}
+            },
+            "Mr. Purple": {
+                "180 Orchard StreetNY, 10002": {}
+            },
+            "The Flatiron Room": {
+                "37 West 26th StreetNew York, NY, 10010": {}
+            },
+            "Lexington Social": {
+                "1634 Lexington AveNew York, NY, 10029+5366": {}
+            },
+            "The Skylark": {
+                "200 West 39th StreetNew York, NY, 10018": {}
+            },
+            "Haven Rooftop": {
+                "132 W 47th StNew York, NY, 10036": {}
+            }
+        },
+        "Luncheonettes": {
+            "Nathan's Famous": {
+                "1310 Surf AveBrooklyn, NY, 11224+2404": {}
+            }
+        },
+        "Malayan": {
+            "Nurnberger Bierhaus": {
+                "815 Castleton AveStaten Island, NY, 10310+1804": {}
+            },
+            "Laut": {
+                "15 East 17th StreetNY, 10003": {}
+            },
+            "Kopitiam": {
+                "51 Canal StreetNY, 10002": {}
+            },
+            "Taste Good": {
+                "82-18 45th AveElmhurst, NY, 11373+3539": {}
+            },
+            "Nyonya": {
+                "199 Grand StNew York, NY, 10013": {}
+            }
+        },
+        "Malaysian": {
+            "230 Fifth": {
+                "230 Fifth AvenueNew York, NY, 10010": {}
+            },
+            "Sentosa": {
+                "39-07 Prince StreetFlushing, NY, 11354+5399": {}
+            },
+            "Penang": {
+                "127 W 72nd StNew York, NY, 10023+3331": {}
+            },
+            "Rasa": {
+                "25 West 8th StreetNew York, NY, 10011": {}
+            }
+        },
+        "Medieval": {
+            "La Posada": {
+                "364 3rd AveNew York, NY, 10016+9013": {}
+            },
+            "Bushwick Coffee House": {
+                "44 Wilson AveBrooklyn, NY, 11237": {}
+            },
+            "Lucy's Cantina Royale": {
+                "1 Penn PlazaNew York, NY, 10119": {}
+            }
+        },
+        "Mediterranean": {
+            "Meadowsweet": {
+                "149 BroadwayNY, 11211": {}
+            },
+            "La Bergamote \u2014 Midtown": {
+                "515 West 52 StreetNew York, NY, 10019": {}
+            },
+            "Tia Pol": {
+                "205 10th AveNew York, NY, 10011": {}
+            },
+            "Il Buco": {
+                "47 Bond StreetNew York, NY, 10012+2450": {}
+            },
+            "Forgtmenot": {
+                "138 Division StreetNY, 10002": {}
+            },
+            "El Quinto Pino": {
+                "401 West 24 StreetNew York, NY, 10011": {}
+            },
+            "Thalassa": {
+                "179 Franklin StreetNew York, NY, 10013": {}
+            },
+            "Opia": {
+                "130 E 57th StNew York, NY, 10022+2703": {}
+            },
+            "Bellini": {
+                "483 Columbus AveNew York, NY, 10024": {}
+            },
+            "Kindred": {
+                "NY, 10003342 East 6th Street": {}
+            },
+            "The Pool": {
+                "99 East 52nd StreetNY, 10022": {}
+            },
+            "Antique Garage": {
+                "41 Mercer StreetNY, 10013": {}
+            },
+            "Marlow & Sons": {
+                "81 BroadwayBrooklyn, NY, 11211": {}
+            },
+            "Sip Sak": {
+                "928 2nd AveNew York, NY, 10022+7802": {}
+            },
+            "Yiasou": {
+                "2003 Emmons AveBrooklyn, NY, 11235+2707": {}
+            },
+            "Entwine": {
+                "765 Washington StNew York, NY, 10014+1760": {}
+            },
+            "Adalya": {
+                "55 Irving PlaceNY, 10003": {}
+            },
+            "ATRIO Wine Bar | Restaurant": {
+                "102 North End AveNY, 10282": {}
+            },
+            "Fig and Olive \u2013 Meatpacking District": {
+                "420 West 13 StreetNew York, NY, 10014": {}
+            },
+            "Figs": {
+                "Laguardia Airport,  Central Terminal Bldg": {}
+            }
+        },
+        "Mexican": {
+            "Cosme": {
+                "9139659": {}
+            },
+            "El Almacen": {
+                "557 Driggs AveBrooklyn, NY, 11211": {}
+            },
+            "Casa Enrique": {
+                "5-48 49th AvenueNY, 11101": {}
+            },
+            "Takumi Taco": {
+                "NY, 1001175 9th Avenue": {}
+            },
+            "El Camion": {
+                "194 Ave ANew York, NY, 10009": {}
+            },
+            "Fonda \u2014 Brooklyn": {
+                "434 7th AveBrooklyn, NY, 11215": {}
+            },
+            "El Sombrero": {
+                "108 Stanton StNY, 10002": {}
+            },
+            "Lalito": {
+                "104 Bayard StreetChinatown, Manhattan, NY, 10013": {}
+            },
+            "Dos Caminos \u2014 SoHo": {
+                "475 West BroadwayNew York, NY, 10012+5309": {}
+            },
+            "Yola's Cafe": {
+                "524 Metropolitan AveBrooklyn, NY, 11211+3544": {}
+            },
+            "Dos Caminos \u2014 Midtown": {
+                "825 3rd AveNew York, NY, 10022+7519": {}
+            },
+            "El Maguey y la Tuna": {
+                "321 E Houston StNew York, NY, 10002+1138": {}
+            },
+            "Dos Caminos \u2014 Chelsea": {
+                "373 Park Ave SouthNew York, NY, 10001": {}
+            },
+            "Rosa Mexicano \u2013 Lincoln Center": {
+                "61 Columbus AveNew York, NY, 10023+6901": {}
+            },
+            "La Palapa": {
+                "77 St Marks PlaceNew York, NY, 10003+7945": {}
+            },
+            "Tortilleria Mexicana Los Hermanos": {
+                "271 Starr StBrooklyn, NY, 11237+2609": {}
+            },
+            "Los Pollitos": {
+                "7302 3rd AveBrooklyn, NY, 11220+4046": {}
+            },
+            "The Great Burrito": {
+                "405 Amsterdam AveNew York, NY, 10024+6209": {}
+            },
+            "La Superior": {
+                "295 Berry StBrooklyn, NY, 11211+5111": {}
+            },
+            "Mole \u2014 West Village": {
+                "57 Jane StNew York, NY, 10014+5131": {}
+            }
+        },
+        "Middle Eastern": {
+            "TurKiss": {
+                "104 MacDougal StNew York, NY, 10012+1248": {}
+            },
+            "Khyber Pass": {
+                "34 Saint Marks PlaceNew York, NY, 10003": {}
+            },
+            "Al Bustan": {
+                "319 East 53rd StreetNew York, NY, 10022": {}
+            },
+            "Maoz Vegetarian - Midtown": {
+                "558 7th AveNew York, NY, 10018+3201": {}
+            },
+            "Moustache \u2014 West Village": {
+                "90 Bedford StNew York, NY, 10014+3764": {}
+            },
+            "Oasis \u2014 Greenpoint": {
+                "230 Cayler StreetBrooklyn, NY, 11222": {}
+            },
+            "Halal Guys": {
+                "NY, 10003307 East 14th Street": {}
+            },
+            "La Vara": {
+                "268 Clinton StBrooklyn, NY, 11201": {}
+            },
+            "Taim \u2014 Little Italy": {
+                "45 Spring StreetNew York, NY, 10012": {}
+            },
+            "Maoz Vegetarian - Upper West Side": {
+                "2047A BroadwayNew York, NY, 10023": {}
+            },
+            "Maoz Vegetarian - East Village": {
+                "59 E 8th StNew York, NY, 10003": {}
+            },
+            "Maoz Vegetarian - Union Square": {
+                "38 Union Square EastNew York, NY, 10038": {}
+            },
+            "Casa La Femme": {
+                "140 Charles St": {}
+            },
+            "Zaytoons - Prospect Heights": {
+                "594 Vanderbilt AveProspect Heights, NY, 11238": {}
+            },
+            "Horus Kebab House": {
+                "93 Avenue BNew York, NY, 10009+6283": {}
+            },
+            "Taboon": {
+                "773 10th AveNew York, NY, 10019+5027": {}
+            },
+            "Salute Kosher": {
+                "63-61 108th StreetForest Hills, NY, 11375": {}
+            },
+            "Taim": {
+                "222 Waverly PlaceNew York, NY, 10014": {}
+            },
+            "Tanoreen": {
+                "7523 3rd AveBrooklyn, NY, 11209": {}
+            },
+            "Kabab Cafe": {
+                "25-12 Steinway StAstoria, NY, 11103+3754": {}
+            }
+        },
+        "Mongolian": {
+            "Bread & Honey": {
+                "941 8th AveNew York, NY, 10019+4225": {}
+            }
+        },
+        "Moroccan": {
+            "Bar Six": {
+                "502 6th AveNew York, NY, 10011+8404": {}
+            },
+            "Mombar": {
+                "25-22 Steinway StAstoria, NY, 11103+3753": {}
+            },
+            "Tagine": {
+                "221 West 38th StreetNew York, NY, 10018+1327": {}
+            },
+            "Spiegel": {
+                "26 1st AveNew York, NY, 10003": {}
+            },
+            "Africa Kine": {
+                "2267 7th AvenueNew York, NY, 10026": {}
+            },
+            "Zaytoons - Prospect Heights": {
+                "594 Vanderbilt AveProspect Heights, NY, 11238": {}
+            },
+            "Zerza": {
+                "320 East 6th StreetNew York, NY, 10003+8701": {}
+            },
+            "Cafe Mogador": {
+                "101 Saint Marks PlNew York, NY, 10009+5146": {}
+            },
+            "Marseille": {
+                "630 9th AveNew York, NY, 10036+3708": {}
+            },
+            "Cafe Gitane": {
+                "242 Mott StNew York, NY, 10012+3456": {}
+            },
+            "Barbes Restaurant": {
+                "21 E 36th StNew York, NY, 10016+3301": {}
+            },
+            "Sultana Cafe": {
+                "128 E 4th StNew York, NY, 10003+9068": {}
+            },
+            "Le Souk Harem": {
+                "510 La Guardia PlaceNew York, NY,": {}
+            },
+            "Little Morocco": {
+                "2439 Steinway StAstoria, NY, 11103+3623": {}
+            },
+            "The Black Lodge": {
+                "20 Prince StreetNew York, NY, 10012": {}
+            },
+            "Casaville": {
+                "633 2nd Ave FrntNew York, NY, 10016+4885": {}
+            },
+            "Kiosk": {
+                "80 E 116th StNew York, NY, 10029+1128": {}
+            },
+            "Meskerem": {
+                "468 W 47th StNew York, NY, 10036+2375": {}
+            },
+            "Awash": {
+                "947 Amsterdam AveNew York, NY, 10025+8359": {}
+            },
+            "Casablanca Grill": {
+                "1132 1st AvenueNY, 10065": {}
+            }
+        },
+        "Natural Food": {
+            "Cafe at RMA": {
+                "150 West 17th StreetNew York, NY, 10011": {}
+            },
+            "By Chloe": {
+                "NY, 10012185 Bleecker Street": {}
+            },
+            "Wild \u2014 West Village": {
+                "535 Hudson StreetNew York, NY, 10014": {}
+            }
+        },
+        "Nepalese": {
+            "Himalayan Yak": {
+                "72-20 Roosevelt AveJackson Heights, NY, 11372+6335": {}
+            }
+        },
+        "Pasta": {
+            "LaRina Pastificio e Vino": {
+                "387 Myrtle AvenueFort Greene, Brooklyn, NY, 11205": {}
+            },
+            "Davio's Northern Italian Steakhouse": {
+                "451 Lexington AveNew York, NY, 10017": {}
+            },
+            "Pastafina - Upper East Side": {
+                "876 Lexington AveNew York, NY, 10021+6631": {}
+            },
+            "Macaron Parlour": {
+                "Marks PlaceNew York, NY, 10009": {}
+            },
+            "S'Mac - Murray Hill": {
+                "157 E 33rd StNew York, NY, 10016": {}
+            },
+            "S'Mac": {
+                "345 E 12th StNew York, NY, 10003": {}
+            },
+            "Pastafina - Midtown East": {
+                "388 3rd AveNew York, NY, 10016+9007": {}
+            },
+            "Pastai": {
+                "New York, NY, 10011186 9th Ave": {}
+            }
+        },
+        "Persian": {
+            "Bijan": {
+                "81 Hoyt StreetBoerum Hill, Brooklyn, NY, 11201": {}
+            },
+            "Persepolis": {
+                "1423 2nd AveNew York, NY, 10021+3311": {}
+            }
+        },
+        "Peruvian": {
+            "212 Hisae's": {
+                "212 E 9th StNew York, NY, 10003+7503": {}
+            },
+            "Pio Pio \u2014 Hell's Kitchen": {
+                "604 10th AveNew York, NY, 10036": {}
+            },
+            "Bogota Latin Bistro": {
+                "141 5th AveBrooklyn, NY, 11217+4420": {}
+            },
+            "Sushi Samba 7": {
+                "87 7th Ave SNew York, NY, 10014+3415": {}
+            },
+            "Llama Inn": {
+                "50 Withers StreetWilliamsburg, Brooklyn, NY, 11211": {}
+            },
+            "Red Egg": {
+                "202 Centre StreetNew York, NY, 10013": {}
+            },
+            "Tutuma Social Club": {
+                "164 E 56th StNew York, NY, 10022+3611": {}
+            },
+            "Surfish Bistro": {
+                "550 3rd AveGowanus, Brooklyn, NY, 11215": {}
+            },
+            "Warique Peruvian Kitchen": {
+                "40-17 30th AvenueAstoria, Queens, NY, 11103": {}
+            },
+            "Coco Roco": {
+                "392 5th AveBrooklyn, NY, 11215+3306": {}
+            },
+            "Mancora": {
+                "99 1st AveNew York, NY, 10003+2903": {}
+            },
+            "La Cerveceria": {
+                "65 2nd AveNew York, NY, 10003": {}
+            },
+            "Surfish": {
+                "351 Fifth AveBrooklyn, NY, 11215": {}
+            },
+            "Panca": {
+                "92 7th Ave SouthNew York, NY, 10014": {}
+            },
+            "Coney Island Taste": {
+                "2580 Coney Island AveBROOKLYN, NY, 11223+5028": {}
+            },
+            "INTI": {
+                "820 10th AveNew York, NY, 10019+5070": {}
+            },
+            "Pio Pio \u2014 Jackson Heights": {
+                "84-20 Northern BlvdJackson Heights, NY, 11372+1531": {}
+            },
+            "Raymi": {
+                "43 W 24th StNew York, NY,": {}
+            }
+        },
+        "Phillipine": {
+            "Ihawan": {
+                "4006 70th StFlushing, NY, 11377+2930": {}
+            },
+            "Purple Yam": {
+                "1314 Cortelyou RdBrooklyn, NY, 11226": {}
+            },
+            "Papa's Kitchen": {
+                "37-07 83rd StreetNY, 11372": {}
+            },
+            "F.O.B": {
+                "271 Smith StreetNY, 11231": {}
+            },
+            "Jeepney": {
+                "201 1st AveNew York, NY, 10009": {}
+            }
+        },
+        "Pizza": {
+            "Girello": {
+                "16 N Moore StNew York, NY, 10013": {}
+            },
+            "Giuseppina's": {
+                "691 6th AveBrooklyn, NY, 11215+6302": {}
+            },
+            "Lucali": {
+                "575 Henry StreetBrooklyn, NY, 11231+2707": {}
+            },
+            "Anella": {
+                "222 Franklin St": {}
+            },
+            "Famous Joe's Pizza": {
+                "7 Carmine StreetNew York, NY, 10014+4441": {}
+            },
+            "John's of Bleecker Street": {
+                "278 Bleecker StNew York, NY, 10014+4105": {}
+            },
+            "Totonno's Pizzeria Napolitano": {
+                "1524 Neptune AveBrooklyn, NY, 11224+2716": {}
+            },
+            "Marta": {
+                "6513800": {}
+            },
+            "Bellini": {
+                "483 Columbus AveNew York, NY, 10024": {}
+            },
+            "Lombardi's Pizza": {
+                "32 Spring StNew York, NY, 10012+4173": {}
+            },
+            "Faro": {
+                "436 Jefferson StreetBrooklyn, NY, 11237": {}
+            },
+            "Saraghina": {
+                "435 Halsey StBrooklyn, NY, 11233": {}
+            },
+            "Roberta's Pizza": {
+                "261 Moore StreetBrooklyn, NY, 11206": {}
+            },
+            "L'asso": {
+                "41 Kenmare StNew York, NY, 10012+4624": {}
+            },
+            "Goodfella's \u2013 Victory Blvd SI": {
+                "1817 Victory BlvdStaten Island, NY, 10314+3515": {}
+            },
+            "Denino's Pizzeria Tavern \u2014 Staten Island": {
+                "524 Port Richmond AveStaten Island, NY, 10302+1721": {}
+            },
+            "Dee's": {
+                "10402 METROPOLITAN AVEFOREST HILLS, NY, 11375+6736": {}
+            },
+            "Rizzo's Fine Pizza": {
+                "30-13 Steinway StreetAstoria, NY, 11103+3845": {}
+            },
+            "Sam's": {
+                "238 Court StBrooklyn, NY, 11201": {}
+            },
+            "Zero Otto Nove": {
+                "15 W 21st StNew York, NY, 10010": {}
+            }
+        },
+        "Polish": {
+            "Karczma": {
+                "136 Greenpoint AveBrooklyn, NY, 11222+2202": {}
+            },
+            "Polonica": {
+                "7214 3rd AveBrooklyn, NY, 11209+2129": {}
+            },
+            "Dziulpa": {
+                "194 Bedford AveBrooklyn, NY, 11211": {}
+            }
+        },
+        "Polynesian": {
+            "Mother of Pearl": {
+                "95 Ave ANew York, NY, 10009": {}
+            }
+        },
+        "Portuguese": {
+            "Macao Trading Company": {
+                "311 Church StreetNew York, NY, 10013": {}
+            },
+            "Convivium Osteria": {
+                "68 5th AvePark Slope, NY, 11217+2021": {}
+            },
+            "Ipanema Restaurant": {
+                "43 West 46th StreetNY, 10036": {}
+            },
+            "Raizes Churrascaria": {
+                "139 Nassau AveBrooklyn, NY, 11222": {}
+            }
+        },
+        "Pretzel": {
+            "Sigmund Pretzel Shop": {
+                "29 Avenue BNew York, NY, 10009+7407": {}
+            }
+        },
+        "Pub": {
+            "Pier A Harbor House": {
+                "22 Battery PlaceNY, 10004": {}
+            },
+            "Spitzer's Corner": {
+                "101 Rivington StreetNew York, NY, 10002": {}
+            },
+            "P.J. Clarke's": {
+                "915 3rd AveNew York, NY, 10022+3767": {}
+            },
+            "Waverly at IFC Center": {
+                "325 Sixth AvenueNew York, NY, 10014": {}
+            },
+            "Donohue's Steakhouse": {
+                "845 Lexington AveNew York, NY, 10021+6611": {}
+            },
+            "Ellington in the Park": {
+                "Riverside Park at 105th StreetRiverside Park, Manhattan, NY, 10025": {}
+            },
+            "Mekelburg's Fine Food and Craft Beer": {
+                "293 Grand AveBrooklyn, NY, 11238": {}
+            },
+            "P.J. Clarke's at Lincoln Center": {
+                "44 West 63rd StreetNY,": {}
+            },
+            "P.J. Clarke's on the Hudson": {
+                "250 Vessey StreetNY, 10281": {}
+            },
+            "The Houndstooth Pub": {
+                "520 8th AveNew York, NY, 10018+6507": {}
+            },
+            "Black Sheep": {
+                "583 3rd AveNew York, NY, 10016+2711": {}
+            },
+            "Social": {
+                "795 8th AveNew York, NY, 10019+7401": {}
+            },
+            "The Vanderbilt": {
+                "570 Vanderbilt AveBrooklyn, NY, 11238+3518": {}
+            },
+            "Dorrian's Red Hand": {
+                "300 E 84th StNew York, NY, 10028+4414": {}
+            },
+            "Wicked Monk": {
+                "9510 3rd AveBay Ridge, Brooklyn, NY, 11209": {}
+            },
+            "The Black Swan": {
+                "1048 Bedford AvenueBrooklyn, NY, 11205": {}
+            },
+            "The Shakespeare": {
+                "24 East 39th StreetNew York, NY, 10016": {}
+            },
+            "Brickyard Gastropub": {
+                "785 9th AveNew York, NY, 10019+5620": {}
+            },
+            "Dutch Fred's": {
+                "307 West 47th StreetNY, 10036": {}
+            },
+            "Fraunces Tavern": {
+                "54 Pearl StNew York, NY, 10004+4300": {}
+            }
+        },
+        "Puerto Rican": {
+            "Casa Adela": {
+                "66 Avenue CNew York, NY, 10009": {}
+            },
+            "Sofrito": {
+                "679 Riverside DriveNew York, NY, 10031": {}
+            },
+            "South of France": {
+                "1800 Westchester AveBronx, NY, 10472": {}
+            },
+            "Camaradas El Barrio": {
+                "2241 1st AveNew York, NY, 10029+1601": {}
+            },
+            "El Aripo": {
+                "New York, NY, 10002172 Delancey Street": {}
+            },
+            "Crudo": {
+                "235 W 35th StNew York, NY, 10001t": {}
+            }
+        },
+        "Raw Bar": {
+            "Grand Banks": {
+                "Pier 25 \u2013 Hudson River at N Morre StreetNY, 10013": {}
+            },
+            "Oceans": {
+                "233 Park Ave SouthNY, 10003": {}
+            },
+            "Grand Central Oyster Bar": {
+                "Grand Central Station - Lower ConcourseNew York, NY, 10001": {}
+            },
+            "John Dory Oyster Bar": {
+                "1196 BroadwayNew York, NY, 10001": {}
+            },
+            "Maison Premiere": {
+                "298 Bedford AveBrooklyn, NY, 11211": {}
+            },
+            "Theo's Restaurant & Oyster Bar": {
+                "1048 3rd AveNY, 10065": {}
+            },
+            "Barfish Bistro": {
+                "643 BroadwayNY, 0012": {}
+            },
+            "Hudson Cafe": {
+                "628 Hudson StreetNew York, NY, 10014": {}
+            }
+        },
+        "Ribs & Chicken": {
+            "Doc's": {
+                "1902 Adam Clayton Powell BoulevardHarlem, NY, 10026": {}
+            }
+        },
+        "Russian": {
+            "Mari Vanna": {
+                "41 E 20th StNew York, NY, 10003+1324": {}
+            },
+            "Russian Tea Room": {
+                "150 W57th St": {}
+            },
+            "Salute Kosher": {
+                "63-61 108th StreetForest Hills, NY, 11375": {}
+            },
+            "Tatiana": {
+                "3152 Brighton 6th StBrooklyn, NY, 11235+7151": {}
+            },
+            "National Nightclub": {
+                "273 Brighton Beach AveBrooklyn, NY, 11235": {}
+            },
+            "Primorski": {
+                "282 Brighton Beach AveBrooklyn, NY, 11235+7411": {}
+            },
+            "Chinar On The Island": {
+                "283 Sand LaneStaten Island, NY, 10305": {}
+            },
+            "Romanoff": {
+                "2670 Coney Island AveBrooklyn, NY, 11235+5005": {}
+            },
+            "Anyway Cafe \u2014 Brooklyn": {
+                "1602 Gravesend Neck RoadBrooklyn, NY, 11229+4431": {}
+            },
+            "Surf & Turf": {
+                "2954 Avenue UBrooklyn, NY, 11229+5101": {}
+            },
+            "Baku Palace": {
+                "2001 Emmons AveBrooklyn, NY, 11235": {}
+            },
+            "Skovorodka": {
+                "615 Brighton Beach AveBrooklyn, NY, 11235+6405": {}
+            },
+            "Anyway Cafe \u2014 Brighton Beach": {
+                "111 Oriental BlvdBrooklyn, NY, 11235+4124": {}
+            }
+        },
+        "Salvadorean": {
+            "Tierras Salvadorenas": {
+                "94-16 37th AveQueens, NY, 11372": {}
+            },
+            "Restaurante la Libertad": {
+                "3764 BroadwayNew York, NY, 10032": {}
+            },
+            "La Joya de Ceren": {
+                "112-16 Rockaway Beach BlvdRockaway Park, NY, 11694": {}
+            }
+        },
+        "Sandwich Shops": {
+            "Eisenberg's Sandwich Shop": {
+                "174 5th AveNew York, NY, 10010+5913": {}
+            },
+            "High Street on Hudson": {
+                "637 Hudson StreetNY, 10014": {}
+            },
+            "Meat Hook Sandwich Shop": {
+                "495 Lorimer StreetWuilliamsburg, Brooklyn, NY, 11211": {}
+            },
+            "Lenwich \u2014 Upper West Side": {
+                "469 Columbus AveNew York, NY, 10024+4624": {}
+            },
+            "Saltie": {
+                "378 Metropolitan AveBrooklyn, NY, 11211+3316": {}
+            },
+            "Defonte's - Brooklyn": {
+                "379 Columbia StBrooklyn, NY, 11231+1833": {}
+            },
+            "Lenwich \u2014 Midtown 48th Street": {
+                "60 W 48th StNew York, NY, 10036+1704": {}
+            },
+            "Lexington Candy Shop": {
+                "1226 Lexington AveNew York, NY, 10028+1406": {}
+            },
+            "Paris Sandwich": {
+                "113 Mott StNew York, NY, 10013+4634": {}
+            },
+            "Lenwich \u2014 Flatiron District": {
+                "16 W 23rd StNew York, NY, 10010+5231": {}
+            },
+            "Il Bambino \u2013 Greenwich Village": {
+                "48 West 8th StreetNY, 10011": {}
+            },
+            "Mekelburg's Fine Food and Craft Beer": {
+                "293 Grand AveBrooklyn, NY, 11238": {}
+            },
+            "Bar Centrale": {
+                "324 W 46th StNew York, NY, 10036": {}
+            },
+            "Lenwich \u2014 Greenwich Village": {
+                "418 6th AveNew York, NY, 10011": {}
+            },
+            "Bittersweet": {
+                "180 Dekalb AveBrooklyn, NY, 11205": {}
+            },
+            "Il Bambino \u2013 Queens": {
+                "34-08 31st AveAstoria, Queens, NY, 11106": {}
+            },
+            "The Rabbithole": {
+                "352 Bedford AveWilliamsburg, Brooklyn, NY, 11211": {}
+            },
+            "Num Pang \u2014 Times Square": {
+                "148 West 48th StreetNew York, NY, 10036": {}
+            },
+            "Coyi Cafe": {
+                "42 Ave BNew York, NY, 10009": {}
+            },
+            "Abraco Espresso": {
+                "81 E 7th StEast Village, NY, 10003": {}
+            }
+        },
+        "Scandinavian": {
+            "Aquavit": {
+                "65 East 55th StreetNew York, NY, 10022": {}
+            },
+            "Agern": {
+                "89 East 42nd StreetGrand Central Terminal, NY, 10017": {}
+            },
+            "n'eat": {
+                "58 2nd AveNY, 10003": {}
+            },
+            "ASKA": {
+                "47 S 5th StreetWilliamsburg, Brooklyn, NY, 9293376792": {}
+            },
+            "Bornholm": {
+                "138 Smith StreetNY, 11201": {}
+            },
+            "Konditori - Park Slope": {
+                "186 5th AveBrooklyn, NY, 11217+3523": {}
+            },
+            "AQ Kafe": {
+                "1800 BroadwayNew York, NY, 10019": {}
+            },
+            "Smorgas Chef \u2014 Scandinavia House": {
+                "New York, NY, 10017+1676(212) 486-1411": {}
+            },
+            "Smorgas Chef \u2014 Wall Street": {
+                "53 Stone StNew York, NY, 10004+2604": {}
+            },
+            "Crepes du Nord": {
+                "17 South William StreetNew York, NY, 10004+2426": {}
+            }
+        },
+        "Scottish": {
+            "St. Andrews": {
+                "140 W 46th StNew York, NY, 10036+4050": {}
+            },
+            "Highlands": {
+                "150 West 10th StreetNew York, NY, 10014": {}
+            },
+            "Cooper's Craft & Kitchen": {
+                "87 2nd AveNew York, NY, 10003": {}
+            }
+        },
+        "Seafood": {
+            "Aquavit": {
+                "65 East 55th StreetNew York, NY, 10022": {}
+            },
+            "Marea": {
+                "240 Central Park SouthNew York, NY, 10019": {}
+            },
+            "Russ & Daughters": {
+                "179 East Houston StreetNew York, NY, 10002+1024": {}
+            },
+            "Grand Banks": {
+                "Pier 25 \u2013 Hudson River at N Morre StreetNY, 10013": {}
+            },
+            "Tertulia": {
+                "359 W 4th StNew York, NY, 10014": {}
+            },
+            "Bar Belly": {
+                "14 Orchard StNew York, NY, 10002": {}
+            },
+            "Oceana": {
+                "1221 6th AveNew York, NY, 10020": {}
+            },
+            "Maiden Lane": {
+                "162 Avenue BNew York, NY, 10009": {}
+            },
+            "Grand Army": {
+                "Brooklyn, NY, 11201336 State Street": {}
+            },
+            "Thalassa": {
+                "179 Franklin StreetNew York, NY, 10013": {}
+            },
+            "Sparks Steak House": {
+                "210 E 46th StNew York, NY, 10017+2903": {}
+            },
+            "Oceans": {
+                "233 Park Ave SouthNY, 10003": {}
+            },
+            "The Pool": {
+                "99 East 52nd StreetNY, 10022": {}
+            },
+            "Village Prime": {
+                "302 Bleecker StreetNY, 10014": {}
+            },
+            "Marina Cafe": {
+                "154 Mansion AveStaten Island, NY, 10308": {}
+            },
+            "Yiasou": {
+                "2003 Emmons AveBrooklyn, NY, 11235+2707": {}
+            },
+            "Lure Fishbar": {
+                "142 Mercer St": {}
+            },
+            "Chadwick's": {
+                "8822 3rd AveBrooklyn, NY, 11209+5608": {}
+            },
+            "Morton's The Steakhouse": {
+                "551 5th AveNew York, NY, 10176+0001": {}
+            },
+            "The Black Whale": {
+                "279 City Island AveBronx, NY, 10464+1488": {}
+            }
+        },
+        "Sicilian": {
+            "Cacio e Vino": {
+                "80 2nd AveNew York, NY, 10003": {}
+            },
+            "Puglia": {
+                "189 Hester StNew York, NY, 10013+0448": {}
+            },
+            "Bar Eolo": {
+                "190 7th AveNew York, NY, 10011+1810": {}
+            }
+        },
+        "Singaporean": {
+            "Laut": {
+                "15 East 17th StreetNY, 10003": {}
+            }
+        },
+        "Smoothie": {
+            "Big Gay Ice Cream Shop \u2014 East Village": {
+                "New York, NY, 10009125 East 7th Street": {}
+            },
+            "Juice Press": {
+                "70 1st StNew York, NY, 10003": {}
+            },
+            "Bliss Cafe": {
+                "191 Bedford AveBrooklyn, NY, 11211+2948": {}
+            },
+            "Nectar": {
+                "198 Court StBrooklyn, NY, 11201+6469": {}
+            }
+        },
+        "Soda Fountain Shops": {
+            "Brooklyn Farmacy": {
+                "513 Henry StreetBrooklyn, NY, 11231+3105": {}
+            },
+            "Serendipity 3": {
+                "225 East 60th StreetNew York, NY, 10022+1442": {}
+            }
+        },
+        "Soul Food": {
+            "Brooklyn Star": {
+                "593 Lorimer StBrooklyn, NY, 11211": {}
+            },
+            "The Soul Spot": {
+                "302 Atlantic AveBrooklyn, NY, 11201+5822": {}
+            },
+            "Sylvia's": {
+                "328 Malcolm X BlvdNew York, NY, 10027+3711": {}
+            },
+            "Miss Mamie's Spoonbread Too": {
+                "366 W 110th StNew York, NY, 10025+2633": {}
+            },
+            "Five Spot": {
+                "459 Myrtle AveBrooklyn, NY, 11205+2413": {}
+            },
+            "Amy Ruth's": {
+                "113 W 116th StNew York, NY, 10026+2521": {}
+            },
+            "Soule": {
+                "920 Fulton StBrooklyn, NY, 11238+2349": {}
+            },
+            "Daisy May's BBQ USA": {
+                "623 11th Ave": {}
+            },
+            "SpaHa Soul": {
+                "2270 1st AvenueNY, 10035": {}
+            },
+            "Freda\u2019s Caribbean & Soul Cuisine": {
+                "993 Columbus AveNY, 10025": {}
+            },
+            "Harriet's Kitchen": {
+                "502 Amsterdam AveNew York, NY, 10024+3943": {}
+            },
+            "Doc's": {
+                "1902 Adam Clayton Powell BoulevardHarlem, NY, 10026": {}
+            },
+            "Billie's Black": {
+                "271 West 119th StreetNew York, NY, 10026": {}
+            },
+            "Londel's": {
+                "2620 Frederick Dglss BlvdNew York, NY, 10030+1704": {}
+            },
+            "Butterfunk Kitchen": {
+                "1295 Prospect AvenueWindsor Terrace, Brooklyn, NY, 11218": {}
+            },
+            "Foot N' It": {
+                "153 Lenox AveNew York, NY, 10026": {}
+            }
+        },
+        "Soup & Salad": {
+            "Beco": {
+                "45 Richardson StBrooklyn, NY, 11211": {}
+            },
+            "Il Bambino \u2013 Greenwich Village": {
+                "48 West 8th StreetNY, 10011": {}
+            },
+            "Bar Centrale": {
+                "324 W 46th StNew York, NY, 10036": {}
+            },
+            "Il Bambino \u2013 Queens": {
+                "34-08 31st AveAstoria, Queens, NY, 11106": {}
+            },
+            "The Rabbithole": {
+                "352 Bedford AveWilliamsburg, Brooklyn, NY, 11211": {}
+            },
+            "Abraco Espresso": {
+                "81 E 7th StEast Village, NY, 10003": {}
+            },
+            "Dishes": {
+                "6 East 45th StreetNew York, NY, 10017+2414": {}
+            },
+            "Ninth Street Espresso": {
+                "700 East 9th StreetNew York, NY, 10009+5309": {}
+            },
+            "Brodo": {
+                "NY, 10009403 East 12th Street": {}
+            },
+            "The Jones": {
+                "788 9th AveNew York, NY, 10019+5639": {}
+            },
+            "Root Hill Cafe": {
+                "262 4th AveBrooklyn, NY, 11215+1096": {}
+            },
+            "Hale & Hearty Soups - Financial District": {
+                "110 Maiden LaneNew York, NY, 10005": {}
+            },
+            "Hale & Hearty Soups - Midtown East": {
+                "22 E 47th StNew York, NY, 10017+1905": {}
+            },
+            "Hale & Hearty Soups - Midtown West": {
+                "462 7th AveNew York, NY, 10018+7419": {}
+            },
+            "Blake & Todd": {
+                "7 W 47th StNew York, NY, 10036+3302": {}
+            },
+            "Hale & Hearty Soups - Upper East Side": {
+                "849 Lexington AveNew York, NY, 10021+6637": {}
+            },
+            "Tossed - Park Avenue": {
+                "295 Park AveNew York, NY, 10017+1205": {}
+            },
+            "Hanco's - Park Slope": {
+                "350 7th AveBrooklyn, NY, 11215": {}
+            }
+        },
+        "South American": {
+            "El Almacen": {
+                "557 Driggs AveBrooklyn, NY, 11211": {}
+            },
+            "Bogota Latin Bistro": {
+                "141 5th AveBrooklyn, NY, 11217+4420": {}
+            },
+            "Caracas Arepa Bar": {
+                "291 Grand StBrooklyn, NY, 11211+4406": {}
+            },
+            "My Uncles": {
+                "89-08 Queens BlvdElmhurst, NY, 11373+4932": {}
+            },
+            "La Portena": {
+                "74-25 37th AveFlushing, NY, 11372+6339": {}
+            },
+            "Frisby": {
+                "83-17 Northern BlvdJackson Heights, NY, 11372+1459": {}
+            },
+            "Bowery Bar & Grill (B Bar)": {
+                "40 E 4th St": {}
+            },
+            "Cozinha Latina": {
+                "37 Greenpoint AveQueens, NY, 11222": {}
+            },
+            "K Rico South American Steak House": {
+                "772 9th AvenueNY, 10019": {}
+            },
+            "Confessional": {
+                "308 East 6th StreetNew York, NY, 10003": {}
+            },
+            "ABC Cocina": {
+                "38 East 19th StreetNew York, NY, 10003": {}
+            },
+            "Favela Grill": {
+                "33-18 28th AveAstoria, NY, 11103": {}
+            },
+            "Amor Cubano": {
+                "2018 3rd AveHarlem, NY, 10029": {}
+            },
+            "Palo Santo": {
+                "652 Union StreetPark Slope, NY, 11215": {}
+            },
+            "El Cocotero": {
+                "228 W 18th StNew York, NY, 10011+4529": {}
+            },
+            "Charrua": {
+                "131 Essex StreetNY, 10002": {}
+            },
+            "Desnuda": {
+                "122 East 7th StreetEast Village, NY,": {}
+            },
+            "Libertador": {
+                "1725 2nd AveNew York, NY, 10128+3502": {}
+            },
+            "Rice 'n Beans": {
+                "744 9th AveNew York, NY, 10019+6624": {}
+            },
+            "Cibao": {
+                "72 Clinton StNew York, NY, 10002+2480": {}
+            }
+        },
+        "Southern Style": {
+            "Jacob's Pickles": {
+                "509 Amsterdam AveNew York, NY, 10024+3941": {}
+            },
+            "Bobwhite Counter": {
+                "94 Avenue CNew York, NY, 10009": {}
+            },
+            "Brooklyn Star": {
+                "593 Lorimer StBrooklyn, NY, 11211": {}
+            },
+            "Blue Ribbon Fried Chicken": {
+                "28 East 1st StreetNew York, NY, 10003": {}
+            },
+            "The Soul Spot": {
+                "302 Atlantic AveBrooklyn, NY, 11201+5822": {}
+            },
+            "Water Street": {
+                "66 Water StreetBrooklyn, NY, 11201+1048": {}
+            },
+            "Miss Mamie's Spoonbread Too": {
+                "366 W 110th StNew York, NY, 10025+2633": {}
+            },
+            "Amy Ruth's": {
+                "113 W 116th StNew York, NY, 10026+2521": {}
+            },
+            "Duane Park": {
+                "308 BoweryNew York, NY, 10013+3836": {}
+            },
+            "Root & Bone": {
+                "200 East 3rd StreetNew York, NY, 10009": {}
+            },
+            "Catfish": {
+                "1433 Bedford AveBrooklyn, NY, 11216": {}
+            },
+            "Peaches HotHouse \u2013 Fort Greene": {
+                "87 S Elliot PlaceFort Greene, NY, 11217": {}
+            },
+            "Negril Village": {
+                "70 West 3rd StreetNew York, NY, 10012+1078": {}
+            },
+            "Bayou": {
+                "1072 Bay StreetStaten Island, NY, 10305+4906": {}
+            },
+            "Daisy May's BBQ USA": {
+                "623 11th Ave": {}
+            },
+            "Superfine": {
+                "126 Front StreetBROOKLYN, NY, 11201+1116": {}
+            },
+            "Blujeen": {
+                "2143 Frederick Douglas BlvdNY, 10026": {}
+            },
+            "SpaHa Soul": {
+                "2270 1st AvenueNY, 10035": {}
+            },
+            "Bourbon Street": {
+                "346 West 46th StreetNew York, NY, 10036": {}
+            },
+            "Sugar Bar": {
+                "254 W 72nd StNew York, NY, 10023+2821": {}
+            }
+        },
+        "Southwestern": {
+            "Rosa Mexicano \u2013 Lincoln Center": {
+                "61 Columbus AveNew York, NY, 10023+6901": {}
+            },
+            "107 West": {
+                "2787 BroadwayNew York, NY, 10025+2828": {}
+            },
+            "Rosa Mexicano \u2013 Union Square": {
+                "9 E 18th StNew York, NY, 10003+1903": {}
+            },
+            "Gabriela's": {
+                "688 Columbus AvenueNew York, NY, 10025": {}
+            },
+            "Sinigual": {
+                "150 E 42nd StNew York, NY, 10017": {}
+            },
+            "Cowgirl Hall Of Fame": {
+                "519 Hudson StreetNew York, NY, 10014": {}
+            },
+            "Agave": {
+                "140 7th Ave SouthNew York, NY, 10014": {}
+            },
+            "Johnny Utah's": {
+                "25 West 51 StreetNew York, NY, 10019": {}
+            },
+            "Toloache Taqueria": {
+                "83 Maiden LaneNew York, NY, 10038+4812": {}
+            },
+            "Toloache Bistro Mexicano": {
+                "251 W 50th StNew York, NY, 10012": {}
+            },
+            "El Rio Grande": {
+                "160 E 38th StNew York, NY, 10016+2651": {}
+            },
+            "Alcatraz": {
+                "344 Franklin AveBrooklyn, NY, 11238": {}
+            },
+            "Rachel's Taqueria": {
+                "408 5th AveBrooklyn, NY, 11215+7510": {}
+            },
+            "Gonzalez y Gonzalez": {
+                "625 BroadwayNew York, NY, 10012+2611": {}
+            },
+            "Adobe Blues": {
+                "63 Lafayette AveStaten Island, NY, 10301+1216": {}
+            },
+            "Cilantro - Upper East Side": {
+                "1321 1st AveNew York, NY, 10021+8603": {}
+            },
+            "Santa Fe Grill": {
+                "60 7th AveBrooklyn, NY, 11217+3617": {}
+            },
+            "Mi Nidito": {
+                "852 8th AveNew York, NY, 10019+6244": {}
+            },
+            "Iguana": {
+                "240 W 54th StNew York, NY, 10019+5502": {}
+            },
+            "Bar-K": {
+                "255 10th AveNew York, NY, 10001+7001": {}
+            }
+        },
+        "Spanish": {
+            "Tertulia": {
+                "359 W 4th StNew York, NY, 10014": {}
+            },
+            "Degustation": {
+                "239 East 5th StreetNew York, NY, 10003": {}
+            },
+            "Tia Pol": {
+                "205 10th AveNew York, NY, 10011": {}
+            },
+            "Txikito": {
+                "240 9th AveNew York, NY, 10001": {}
+            },
+            "El Quinto Pino": {
+                "401 West 24 StreetNew York, NY, 10011": {}
+            },
+            "El Born": {
+                "651 Manhattan AveBrooklyn, NY, 11222": {}
+            },
+            "Boqueria \u2014 Flatiron": {
+                "53 West 19 StreetNew York, NY, 10011": {}
+            },
+            "Casa Mono": {
+                "52 Irving PlaceNew York, NY, 10003+3447": {}
+            },
+            "Estancia 460": {
+                "460 Greenwich StNew York, NY, 10013-1760": {}
+            },
+            "Sofrito": {
+                "679 Riverside DriveNew York, NY, 10031": {}
+            },
+            "Alta": {
+                "64 W 10th StNew York, NY, 10011+8702": {}
+            },
+            "Victor's Cafe": {
+                "236 W 52nd StNew York, NY, 10019+5822": {}
+            },
+            "Ortzi": {
+                "120 West 41st StreetNY, 10036": {}
+            },
+            "Socarrat Paella Bar \u2014 Midtown East": {
+                "953 2nd AveNY, 10022": {}
+            },
+            "Socarrat Paella Bar \u2014 NOLITA": {
+                "284 MulberryNY, 10012": {}
+            },
+            "Boqueria \u2014 UES": {
+                "1460 2nd AvenueNY, 10075": {}
+            },
+            "La Vara": {
+                "268 Clinton StBrooklyn, NY, 11201": {}
+            },
+            "Piquillo at JFK Terminal 5": {
+                "Jamaica, NY, 11430JFK Airport": {}
+            },
+            "La Fonda del Sol": {
+                "200 Park AveNew York, NY, 10017": {}
+            },
+            "Boqueria \u2014 SoHo": {
+                "171 Spring StreetNew York, NY, 10012": {}
+            }
+        },
+        "Sri Lankan": {
+            "Sigiri": {
+                "91 First AvenueNew York, NY, 10009": {}
+            }
+        },
+        "Steak Houses": {
+            "Cafe Carlyle": {
+                "35 E 76th StNew York, NY, 10021": {}
+            },
+            "Strip House": {
+                "13 East 12th StNew York, NY, 10003+4404": {}
+            },
+            "Harry's Cafe & Steak": {
+                "1 Hanover SquareNew York, NY, 10004+2601": {}
+            },
+            "Benjamin Steakhouse": {
+                "52 East 41st StreetNew York, NY, 10017": {}
+            },
+            "Sparks Steak House": {
+                "210 E 46th StNew York, NY, 10017+2903": {}
+            },
+            "The Grill": {
+                "99 East 52nd StreetNY, 10022": {}
+            },
+            "M. Wells Steakhouse": {
+                "43-15 Crescent StreetQueens, NY, 11101": {}
+            },
+            "Lincoln Square Steak": {
+                "208 West 70th StreetNY, 10023": {}
+            },
+            "Village Prime": {
+                "302 Bleecker StreetNY, 10014": {}
+            },
+            "Smith & Wollensky": {
+                "797 3rd AvenueNew York, NY, 10017+1501": {}
+            },
+            "Casimer & Co": {
+                "1022 Lexington AveNew York, NY, 10021+4224": {}
+            },
+            "BLT Steak": {
+                "106 E 57th StNew York, NY, 10022+2601": {}
+            },
+            "Chadwick's": {
+                "8822 3rd AveBrooklyn, NY, 11209+5608": {}
+            },
+            "Morton's The Steakhouse": {
+                "551 5th AveNew York, NY, 10176+0001": {}
+            },
+            "Donohue's Steakhouse": {
+                "845 Lexington AveNew York, NY, 10021+6611": {}
+            },
+            "Le Relais de Venise L'Entrecote": {
+                "590 Lexington AveNew York, NY, 10022+6021": {}
+            },
+            "My Uncles": {
+                "89-08 Queens BlvdElmhurst, NY, 11373+4932": {}
+            },
+            "La Portena": {
+                "74-25 37th AveFlushing, NY, 11372+6339": {}
+            },
+            "Bistro Le Steak": {
+                "1309 3rd AveNew York, NY, 10021+3301": {}
+            },
+            "Palm Too": {
+                "840 2nd AveNew York, NY, 10017+4370": {}
+            }
+        },
+        "Supper Club": {
+            "Ginny's Supper Club": {
+                "310 Lenox Ave, BasementNew York, NY, 10027": {}
+            },
+            "I Forgot It's Wednesday": {
+                "New York, NY, 10011125 West 16th Street, #121": {}
+            }
+        },
+        "Sushi Bars": {
+            "Ichimura": {
+                "69 Leonard StreetNY, 10013": {}
+            },
+            "Sushi Seki - Chelsea": {
+                "208 West 23rd St": {}
+            },
+            "O Ya": {
+                "120 East 28th StreetNY, 10016": {}
+            },
+            "Satsko": {
+                "202 East 7th StreetNew York, NY, 10002": {}
+            },
+            "Koyo": {
+                "3712 31st AvenueNY, 11103": {}
+            },
+            "Sushi Seki - Upper East Side": {
+                "1143 1st AveNew York, NY, 10021-7700": {}
+            },
+            "Takahachi - Tribeca": {
+                "145 Duane StNew York, NY, 10013+3851": {}
+            },
+            "Sushi Yasuda": {
+                "204 E 43rd StNew York, NY, 10017+4713": {}
+            },
+            "Sugiyama": {
+                "251 W 55th StNew York, NY, 10019+5202": {}
+            },
+            "Oceans": {
+                "233 Park Ave SouthNY, 10003": {}
+            },
+            "Brushstroke Sushi": {
+                "30 Duane StNY, 10007": {}
+            },
+            "SushiAnn": {
+                "38 East 51st StreetNY, 10022": {}
+            },
+            "Cagen": {
+                "414 East 9th StreetNew York, NY, 10009": {}
+            },
+            "Kyo Ya": {
+                "94 E 7th StNew York, NY, 10009+6117": {}
+            },
+            "Lure Fishbar": {
+                "142 Mercer St": {}
+            },
+            "Deep Blue Sushi at JFK Terminal 5": {
+                "Jamaica, NY, 11430JFK Airport Terminal 5": {}
+            },
+            "Nobu 57": {
+                "40 W 57th StNew York, NY, 10019": {}
+            },
+            "Sasabune": {
+                "401 East 73rd StreetNew York, NY, 10021+3873": {}
+            },
+            "Kum Gang San": {
+                "13828 Northern BlvdFlushing, NY, 11354+3406": {}
+            },
+            "Benihana": {
+                "47 W 56th StNew York, NY, 10019": {}
+            }
+        },
+        "Swiss": {
+            "Cafe Select": {
+                "212 Lafayette St": {}
+            },
+            "Mont Blanc": {
+                "344 West 52nd StreetNew York, NY, 10019": {}
+            }
+        },
+        "Szechuan": {
+            "Grand Sichuan \u2014 West Village": {
+                "15 Seventh Ave SouthNew York, NY, 10014": {}
+            },
+            "Wu Liang Ye": {
+                "36 W 48th StNew York, NY, 10036+1801": {}
+            },
+            "Grand Sichuan House \u2014 Brooklyn": {
+                "8701 5th AveBrooklyn, NY, 11209+5221": {}
+            },
+            "Spicy & Tasty": {
+                "39-07 Prince StreetFlushing, NY, 11354": {}
+            },
+            "La Vie en Szechuan": {
+                "14 East 33rd StreetNew York, NY, 10016": {}
+            },
+            "Mapo Tofu": {
+                "338 Lexington AveNew York, NY, 10016+0937": {}
+            }
+        },
+        "Take Out": {
+            "Artichoke Basille": {
+                "328 East 14th StreetNew York, NY, 10003": {}
+            },
+            "Szechuan Kitchen": {
+                "1518 1st AveNew York, NY, 10021+1041": {}
+            },
+            "Wolfnights": {
+                "99 Rivington St": {}
+            },
+            "Burrito Box": {
+                "885 9th AveNew York, NY, 10019+1700": {}
+            },
+            "Great Wall - Brooklyn": {
+                "3915 18th AveBrooklyn, NY, 11218+5803": {}
+            },
+            "Taboonette": {
+                "30 E 13th StNew York, NY, 10003": {}
+            },
+            "Smile To Go": {
+                "22 Howard StNew York, NY, 10013": {}
+            },
+            "Smith Canteen": {
+                "343 Smith StNew York, NY, 11231": {}
+            },
+            "Doc\u2019s": {
+                "1902 Seventh Ave": {}
+            }
+        },
+        "Tex Mex": {
+            "El Cortez": {
+                "17 Ingraham StreetBushwick, NY, 11206": {}
+            },
+            "Cowgirl Seahorse": {
+                "259 Front StNew York, NY, 10038+1716": {}
+            },
+            "Johnny Utah's": {
+                "25 West 51 StreetNew York, NY, 10019": {}
+            },
+            "Avenida": {
+                "25 Avenue BNY, 10009": {}
+            },
+            "El Original": {
+                "735 10th AvenueNY, 10019": {}
+            },
+            "Javelina": {
+                "119 East 18th StreetNY, 10003": {}
+            },
+            "Tres Carnes \u2014 Financial District": {
+                "101 Maiden LaneNew York, NY, 10005": {}
+            },
+            "Tres Carnes \u2014 Chelsea": {
+                "688 6th AveNew York, NY, 10010": {}
+            },
+            "Ah! Chihuahua's": {
+                "330 E 53rd StNew York, NY, 10022+5220": {}
+            },
+            "ZirZamin": {
+                "90 West HoustonNew York, NY, 10012": {}
+            }
+        },
+        "Thai": {
+            "Uncle Boons": {
+                "7 Spring StreetNew York, NY, 10012": {}
+            },
+            "Zabb Elee \u2013 East Village": {
+                "75 2nd AveNew York, NY, 10003+8640": {}
+            },
+            "Klong Thai": {
+                "7 Saint Marks PlaceNew York, NY, 10003": {}
+            },
+            "Q2 Thai": {
+                "788 9th AveNew York, NY, 10019+5614": {}
+            },
+            "Forest Thai Cuisine": {
+                "1211 Forest AveStaten Island, NY, 10310+2416": {}
+            },
+            "Joya": {
+                "215 Court StBrooklyn, NY, 11201+6544": {}
+            },
+            "SriPraPhai": {
+                "176 N 9th StBrooklyn, NY, 11211": {}
+            },
+            "Room Service": {
+                "166 8th AveNew York, NY, 10011+1603": {}
+            },
+            "Lan Larb \u2014 Midtown East": {
+                "637 Second AvenueNY, 10016": {}
+            },
+            "Lan Larb \u2014 SoHo": {
+                "227 Centre StreetNY, 10013": {}
+            },
+            "Catch de Fish": {
+                "147 3rd AveEast Village, NY, 10003": {}
+            },
+            "OBAO \u2014 Midtown East": {
+                "222 East 53rd StreetNew York, NY, 10022+5205": {}
+            },
+            "Sea Thai": {
+                "114 N 6th StreetWilliamsburg, Brooklyn, NY, 11211": {}
+            },
+            "Arunee Thai Cuisine": {
+                "3768 79th StJackson Heights, NY, 11372+6750": {}
+            },
+            "Wondee Siam": {
+                "792 9th AveNew York, NY, 10019+5612": {}
+            },
+            "Laut": {
+                "15 East 17th StreetNY, 10003": {}
+            },
+            "PuTawan": {
+                "1584 First AveNY, 10028": {}
+            },
+            "Kao Soy": {
+                "283 Van Brunt StreetNY, 11231": {}
+            },
+            "Wondee Siam II": {
+                "813 9th AveNew York, NY, 10019+5601": {}
+            }
+        },
+        "Theme": {
+            "Waverly at IFC Center": {
+                "325 Sixth AvenueNew York, NY, 10014": {}
+            },
+            "Dave & Buster's": {
+                "234 West 42nd StreetNew York, NY, 10036+7215": {}
+            }
+        },
+        "Tibetan": {
+            "Top Cafe Tibet": {
+                "1510 Courtelyou RdBrooklyn, NY, 11226": {}
+            },
+            "Lali Guras": {
+                "37-63 76th StJackson Heights, NY, 11372+6514": {}
+            }
+        },
+        "Turkey": {
+            "Lokal Bistro": {
+                "905 Lorimer StBrooklyn, NY, 11222+3103": {}
+            },
+            "Sahara": {
+                "2337 Coney Island AveBrooklyn, NY, 11223+5001": {}
+            },
+            "Coney Island Gyro": {
+                "1621 Neptune AveBrooklyn, NY, 11224": {}
+            },
+            "Gulluoglu": {
+                "982 2nd AveNew York, NY, 10022+6304": {}
+            }
+        },
+        "Turkish": {
+            "TurKiss": {
+                "104 MacDougal StNew York, NY, 10012+1248": {}
+            },
+            "Antique Garage": {
+                "41 Mercer StreetNY, 10013": {}
+            },
+            "Sip Sak": {
+                "928 2nd AveNew York, NY, 10022+7802": {}
+            },
+            "Taksim": {
+                "1030 2nd AveNew York, NY, 10022+4031": {}
+            },
+            "Sahara's Turkish Cuisine": {
+                "513 2nd AveNew York, NY, 10016+8642": {}
+            },
+            "Maoz Vegetarian - Midtown": {
+                "558 7th AveNew York, NY, 10018+3201": {}
+            },
+            "Maoz Vegetarian - Upper West Side": {
+                "2047A BroadwayNew York, NY, 10023": {}
+            },
+            "Maoz Vegetarian - East Village": {
+                "59 E 8th StNew York, NY, 10003": {}
+            },
+            "Maoz Vegetarian - Union Square": {
+                "38 Union Square EastNew York, NY, 10038": {}
+            },
+            "Pierre Loti \u2013 Union Square": {
+                "53 Irving PlaceNew York, NY, 10003": {}
+            },
+            "Bodrum": {
+                "584 Amsterdam AveNew York, NY, 10024": {}
+            },
+            "Peri Ela": {
+                "1361 Lexington AveNew York, NY, 10128+1508": {}
+            },
+            "Pera Soho": {
+                "54 Thompson StreetNew York, NY, 10012+4308": {}
+            },
+            "Pera": {
+                "303 Madison AveNew York, NY, 10017": {}
+            },
+            "My Moon": {
+                "184 N10th Street": {}
+            },
+            "Istanblue Kings Restaurant": {
+                "428 Kings HighwayNY, 11223": {}
+            },
+            "Pierre Loti \u2013 Chelsea": {
+                "258 West 15th StreetNew York, NY, 10011+6503": {}
+            },
+            "Liman": {
+                "2710 Emmons AveBrooklyn, NY, 11235+2245": {}
+            },
+            "Ali Baba's Terrace": {
+                "862 2nd AveNew York, NY, 10017+2902": {}
+            },
+            "Pasha": {
+                "70 W 71st St PhNew York, NY, 10023+4240": {}
+            }
+        },
+        "Ukrainian": {
+            "Cafe Glechik": {
+                "3159 Coney Island AveBrooklyn, NY, 11235+6443": {}
+            },
+            "Veselka": {
+                "144 2nd AveNew York, NY, 10003+8305": {}
+            },
+            "Taras Bulba": {
+                "357 West BroadwayNew York, NY, 10013": {}
+            },
+            "Odessa": {
+                "117 Avenue ANew York, NY, 10009+5820": {}
+            },
+            "Ukrainian East Village": {
+                "140 2nd AveNew York, NY, 10003+8364": {}
+            },
+            "Oda House": {
+                "76 Avenue BEast Village, NY, 10009": {}
+            }
+        },
+        "Vegetarian": {
+            "Chaiwali Harlem": {
+                "274 Lenox Ave10027": {}
+            },
+            "The Finch": {
+                "212 Greene AvenueNY, 11238": {}
+            },
+            "Vegetarian Dim Sum House": {
+                "24 Pell St": {}
+            },
+            "Mudspot": {
+                "307 E 9th StNew York, NY, 10003+7731": {}
+            },
+            "Eva's": {
+                "11 W 8th StNew York, NY, 10011+9034": {}
+            },
+            "Zen Palate \u2014 Theatre District": {
+                "663 9th AveNew York, NY, 10036+3606": {}
+            },
+            "Maoz Vegetarian - Midtown": {
+                "558 7th AveNew York, NY, 10018+3201": {}
+            },
+            "Indian Taj \u2014 Greenwich Village": {
+                "181 Bleecker StNew York, NY, 10012+1406": {}
+            },
+            "HanGawi": {
+                "12 E 32nd StNew York, NY, 10016+5419": {}
+            },
+            "Taim \u2014 Little Italy": {
+                "45 Spring StreetNew York, NY, 10012": {}
+            },
+            "Maoz Vegetarian - Upper West Side": {
+                "2047A BroadwayNew York, NY, 10023": {}
+            },
+            "Maoz Vegetarian - East Village": {
+                "59 E 8th StNew York, NY, 10003": {}
+            },
+            "Maoz Vegetarian - Union Square": {
+                "38 Union Square EastNew York, NY, 10038": {}
+            },
+            "Dirt Candy": {
+                "86 Allen StreetNew York, NY, 10002": {}
+            },
+            "Taim": {
+                "222 Waverly PlaceNew York, NY, 10014": {}
+            },
+            "Dim Sum Go Go": {
+                "5 E BroadwayNew York, NY, 10038+1013": {}
+            },
+            "ABCv": {
+                "38 East 19th StreetNY, 10003": {}
+            },
+            "Divya's Kitchen": {
+                "25 1st AveNY, 10003": {}
+            },
+            "Nix": {
+                "72 University PlaceNY, 10003": {}
+            },
+            "Almayass": {
+                "24 East 21st StreetNY, 10010": {}
+            }
+        },
+        "Vietnamese": {
+            "Paris Sandwich": {
+                "113 Mott StNew York, NY, 10013+4634": {}
+            },
+            "Indochine": {
+                "430 Lafayette StNew York, NY, 10003+6916": {}
+            },
+            "New Pasteur": {
+                "85 Baxter StNew York, NY, 10013+4433": {}
+            },
+            "Bricolage": {
+                "162 5th AvenueNY, 11217": {}
+            },
+            "Omai": {
+                "158 9th AveNew York, NY, 10011": {}
+            },
+            "Republic": {
+                "37 Union Sq WNew York, NY, 10003+3217": {}
+            },
+            "Saiguette": {
+                "935 Columbus AvenueNY, 10025": {}
+            },
+            "New Xe Lau": {
+                "86 Mulberry StreetNY, 10013": {}
+            },
+            "Ba Xuyen": {
+                "4222 8th AveBrooklyn, NY, 11232": {}
+            },
+            "Pho Mac Vietnamese": {
+                "1407 Richmond AveStaten Island, NY, 10314": {}
+            },
+            "Falansai": {
+                "112 Harrison PlaceBrooklyn, NY, 11217": {}
+            },
+            "Banh Mi Saigon Bakery": {
+                "138 Mott StNew York, NY, 10013+5540": {}
+            },
+            "Cha Pa's Noodle & Grill": {
+                "314 W 52nd StNew York, NY, 10019+6213": {}
+            },
+            "Nha Trang": {
+                "87 Baxter StNew York, NY, 10013+4463": {}
+            },
+            "Pho Viet Huong": {
+                "73 Mulberry StNew York, NY, 10013+4401": {}
+            },
+            "Bo Ky": {
+                "82 Bayard StNew York, NY, 10013+4821": {}
+            },
+            "Xe Lua": {
+                "86 Mulberry StNew York, NY, 10013": {}
+            },
+            "Nightingale 9": {
+                "329 Smith StreetBrooklyn, NY, 11231": {}
+            },
+            "Hanco's - Park Slope": {
+                "350 7th AveBrooklyn, NY, 11215": {}
+            }
+        },
+        "Wine & Cheese": {
+            "Maiden Lane": {
+                "162 Avenue BNew York, NY, 10009": {}
+            },
+            "Della": {
+                "1238 Prospect AvenueBrooklyn, NY, 11218": {}
+            },
+            "Almadira": {
+                "637 Washington AveNY, 11238": {}
+            },
+            "Crimson & Rye": {
+                "198 East 54th StreetNY, 10022": {}
+            },
+            "Entwine": {
+                "765 Washington StNew York, NY, 10014+1760": {}
+            },
+            "Casimer & Co": {
+                "1022 Lexington AveNew York, NY, 10021+4224": {}
+            },
+            "Barawine": {
+                "200 Lenox AveNew York, NY, 10027": {}
+            },
+            "ATRIO Wine Bar | Restaurant": {
+                "102 North End AveNY, 10282": {}
+            },
+            "Oovina": {
+                "496 9th AveNew York, NY, 10018+4131": {}
+            },
+            "Racines": {
+                "94 Chamber StreetNew York, NY, 10007": {}
+            },
+            "Lincoln Center Kitchen": {
+                "Avery Fisher HallWest 64th StreetNew York, NY, 10023": {}
+            },
+            "Pierre Loti \u2013 Union Square": {
+                "53 Irving PlaceNew York, NY, 10003": {}
+            },
+            "Casellula Cheese & Wine Cafe": {
+                "401 W52nd Street": {}
+            },
+            "Supper": {
+                "156 East 2nd StreetNew York, NY, 10009+7719": {}
+            },
+            "Auberge Laurent": {
+                "200 Malcolm X BlvdHarlem, NY, 10027": {}
+            },
+            "Corkbuzz": {
+                "13 E 13th StNew York, NY, 10003": {}
+            },
+            "BKW by Brooklyn Winery": {
+                "747 Franklin AveNY, 11238": {}
+            },
+            "Have & Meyer \u2013  Vineria Naturale con cucina": {
+                "103 Havemeyer StreetWilliamsburg, Brooklyn, NY, 11211": {}
+            },
+            "Wine 34": {
+                "124 East 34th StreetNY, 10016": {}
+            },
+            "Ada Wine Bar": {
+                "310 W 53rd StreetNY, 10019": {}
+            }
+        }
+    }
+}
