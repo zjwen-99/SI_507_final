@@ -18,13 +18,13 @@ if __name__=="__main__":
                 chosen_cuisine=input("what cuisine would you like? ")
                 cache_cuisine=cache
                 while True:
-                    if cache_cuisine['cuisine'][chosen_cuisine]==None:
-                        chosen_cuisine = input("Invalid input, please select another cuisine ")
-                        
-                    else:
+                    try:
                         resturant_list = cache_cuisine['cuisine'][chosen_cuisine]
                         #print(resturant_list)
                         break
+                        
+                    except:
+                        chosen_cuisine = input("Invalid input, please select another cuisine ")
                 
                 chosen_rest = list(resturant_list.keys())
                 for i in range(len(chosen_rest)):
